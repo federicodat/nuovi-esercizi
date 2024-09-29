@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\federico.dattilo\\source\\repos\\Esercizio_gestione_libreria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{801BB254-FDA1-455E-AAAD-A19554762D7B}|Esercizio_gestione_libreria\\Esercizio_gestione_libreria.csproj|c:\\users\\federico.dattilo\\source\\repos\\esercizio_gestione_libreria\\esercizio_gestione_libreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801BB254-FDA1-455E-AAAD-A19554762D7B}|Esercizio_gestione_libreria\\Esercizio_gestione_libreria.csproj|solutionrelative:esercizio_gestione_libreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801BB254-FDA1-455E-AAAD-A19554762D7B}|Esercizio_gestione_libreria\\Esercizio_gestione_libreria.csproj|c:\\users\\federico.dattilo\\source\\repos\\esercizio_gestione_libreria\\esercizio_gestione_libreria\\models\\dal\\libridao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801BB254-FDA1-455E-AAAD-A19554762D7B}|Esercizio_gestione_libreria\\Esercizio_gestione_libreria.csproj|solutionrelative:esercizio_gestione_libreria\\models\\dal\\libridao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801BB254-FDA1-455E-AAAD-A19554762D7B}|Esercizio_gestione_libreria\\Esercizio_gestione_libreria.csproj|c:\\users\\federico.dattilo\\source\\repos\\esercizio_gestione_libreria\\esercizio_gestione_libreria\\models\\dal\\utentedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801BB254-FDA1-455E-AAAD-A19554762D7B}|Esercizio_gestione_libreria\\Esercizio_gestione_libreria.csproj|solutionrelative:esercizio_gestione_libreria\\models\\dal\\utentedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801BB254-FDA1-455E-AAAD-A19554762D7B}|Esercizio_gestione_libreria\\Esercizio_gestione_libreria.csproj|c:\\users\\federico.dattilo\\source\\repos\\esercizio_gestione_libreria\\esercizio_gestione_libreria\\models\\libri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801BB254-FDA1-455E-AAAD-A19554762D7B}|Esercizio_gestione_libreria\\Esercizio_gestione_libreria.csproj|solutionrelative:esercizio_gestione_libreria\\models\\libri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801BB254-FDA1-455E-AAAD-A19554762D7B}|Esercizio_gestione_libreria\\Esercizio_gestione_libreria.csproj|c:\\users\\federico.dattilo\\source\\repos\\esercizio_gestione_libreria\\esercizio_gestione_libreria\\models\\dal\\prestitidao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801BB254-FDA1-455E-AAAD-A19554762D7B}|Esercizio_gestione_libreria\\Esercizio_gestione_libreria.csproj|solutionrelative:esercizio_gestione_libreria\\models\\dal\\prestitidao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801BB254-FDA1-455E-AAAD-A19554762D7B}|Esercizio_gestione_libreria\\Esercizio_gestione_libreria.csproj|c:\\users\\federico.dattilo\\source\\repos\\esercizio_gestione_libreria\\esercizio_gestione_libreria\\models\\eserciziogestionelibreriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801BB254-FDA1-455E-AAAD-A19554762D7B}|Esercizio_gestione_libreria\\Esercizio_gestione_libreria.csproj|solutionrelative:esercizio_gestione_libreria\\models\\eserciziogestionelibreriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801BB254-FDA1-455E-AAAD-A19554762D7B}|Esercizio_gestione_libreria\\Esercizio_gestione_libreria.csproj|c:\\users\\federico.dattilo\\source\\repos\\esercizio_gestione_libreria\\esercizio_gestione_libreria\\models\\prestiti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801BB254-FDA1-455E-AAAD-A19554762D7B}|Esercizio_gestione_libreria\\Esercizio_gestione_libreria.csproj|solutionrelative:esercizio_gestione_libreria\\models\\prestiti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801BB254-FDA1-455E-AAAD-A19554762D7B}|Esercizio_gestione_libreria\\Esercizio_gestione_libreria.csproj|c:\\users\\federico.dattilo\\source\\repos\\esercizio_gestione_libreria\\esercizio_gestione_libreria\\models\\utenti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801BB254-FDA1-455E-AAAD-A19554762D7B}|Esercizio_gestione_libreria\\Esercizio_gestione_libreria.csproj|solutionrelative:esercizio_gestione_libreria\\models\\utenti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801BB254-FDA1-455E-AAAD-A19554762D7B}|Esercizio_gestione_libreria\\Esercizio_gestione_libreria.csproj|c:\\users\\federico.dattilo\\source\\repos\\esercizio_gestione_libreria\\esercizio_gestione_libreria\\models\\dal\\idaoscrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801BB254-FDA1-455E-AAAD-A19554762D7B}|Esercizio_gestione_libreria\\Esercizio_gestione_libreria.csproj|solutionrelative:esercizio_gestione_libreria\\models\\dal\\idaoscrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801BB254-FDA1-455E-AAAD-A19554762D7B}|Esercizio_gestione_libreria\\Esercizio_gestione_libreria.csproj|c:\\users\\federico.dattilo\\source\\repos\\esercizio_gestione_libreria\\esercizio_gestione_libreria\\models\\dal\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801BB254-FDA1-455E-AAAD-A19554762D7B}|Esercizio_gestione_libreria\\Esercizio_gestione_libreria.csproj|solutionrelative:esercizio_gestione_libreria\\models\\dal\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Prestiti.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\Esercizio_gestione_libreria\\Esercizio_gestione_libreria\\Models\\Prestiti.cs",
+              "RelativeDocumentMoniker": "Esercizio_gestione_libreria\\Models\\Prestiti.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\Esercizio_gestione_libreria\\Esercizio_gestione_libreria\\Models\\Prestiti.cs",
+              "RelativeToolTip": "Esercizio_gestione_libreria\\Models\\Prestiti.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wBsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:37:28.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrestitiDAO.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\Esercizio_gestione_libreria\\Esercizio_gestione_libreria\\Models\\DAL\\PrestitiDAO.cs",
+              "RelativeDocumentMoniker": "Esercizio_gestione_libreria\\Models\\DAL\\PrestitiDAO.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\Esercizio_gestione_libreria\\Esercizio_gestione_libreria\\Models\\DAL\\PrestitiDAO.cs",
+              "RelativeToolTip": "Esercizio_gestione_libreria\\Models\\DAL\\PrestitiDAO.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAvwEUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:37:50.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Utenti.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\Esercizio_gestione_libreria\\Esercizio_gestione_libreria\\Models\\Utenti.cs",
+              "RelativeDocumentMoniker": "Esercizio_gestione_libreria\\Models\\Utenti.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\Esercizio_gestione_libreria\\Esercizio_gestione_libreria\\Models\\Utenti.cs",
+              "RelativeToolTip": "Esercizio_gestione_libreria\\Models\\Utenti.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:34:14.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Libri.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\Esercizio_gestione_libreria\\Esercizio_gestione_libreria\\Models\\Libri.cs",
+              "RelativeDocumentMoniker": "Esercizio_gestione_libreria\\Models\\Libri.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\Esercizio_gestione_libreria\\Esercizio_gestione_libreria\\Models\\Libri.cs",
+              "RelativeToolTip": "Esercizio_gestione_libreria\\Models\\Libri.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:00:23.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\Esercizio_gestione_libreria\\Esercizio_gestione_libreria\\Models\\DAL\\Config.cs",
+              "RelativeDocumentMoniker": "Esercizio_gestione_libreria\\Models\\DAL\\Config.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\Esercizio_gestione_libreria\\Esercizio_gestione_libreria\\Models\\DAL\\Config.cs",
+              "RelativeToolTip": "Esercizio_gestione_libreria\\Models\\DAL\\Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:46:15.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibriDAO.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\Esercizio_gestione_libreria\\Esercizio_gestione_libreria\\Models\\DAL\\LibriDAO.cs",
+              "RelativeDocumentMoniker": "Esercizio_gestione_libreria\\Models\\DAL\\LibriDAO.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\Esercizio_gestione_libreria\\Esercizio_gestione_libreria\\Models\\DAL\\LibriDAO.cs",
+              "RelativeToolTip": "Esercizio_gestione_libreria\\Models\\DAL\\LibriDAO.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAArwJQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:27:04.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UtenteDao.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\Esercizio_gestione_libreria\\Esercizio_gestione_libreria\\Models\\DAL\\UtenteDao.cs",
+              "RelativeDocumentMoniker": "Esercizio_gestione_libreria\\Models\\DAL\\UtenteDao.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\Esercizio_gestione_libreria\\Esercizio_gestione_libreria\\Models\\DAL\\UtenteDao.cs",
+              "RelativeToolTip": "Esercizio_gestione_libreria\\Models\\DAL\\UtenteDao.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAADwv9EAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:20:41.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDaoscrittura.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\Esercizio_gestione_libreria\\Esercizio_gestione_libreria\\Models\\DAL\\IDaoscrittura.cs",
+              "RelativeDocumentMoniker": "Esercizio_gestione_libreria\\Models\\DAL\\IDaoscrittura.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\Esercizio_gestione_libreria\\Esercizio_gestione_libreria\\Models\\DAL\\IDaoscrittura.cs",
+              "RelativeToolTip": "Esercizio_gestione_libreria\\Models\\DAL\\IDaoscrittura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:19:31.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\Esercizio_gestione_libreria\\Esercizio_gestione_libreria\\Program.cs",
+              "RelativeDocumentMoniker": "Esercizio_gestione_libreria\\Program.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\Esercizio_gestione_libreria\\Esercizio_gestione_libreria\\Program.cs",
+              "RelativeToolTip": "Esercizio_gestione_libreria\\Program.cs",
+              "ViewState": "AgIAAH4BAAAAAAAAAAArwI0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:23:51.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EsercizioGestioneLibreriaContext.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\Esercizio_gestione_libreria\\Esercizio_gestione_libreria\\Models\\EsercizioGestioneLibreriaContext.cs",
+              "RelativeDocumentMoniker": "Esercizio_gestione_libreria\\Models\\EsercizioGestioneLibreriaContext.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\Esercizio_gestione_libreria\\Esercizio_gestione_libreria\\Models\\EsercizioGestioneLibreriaContext.cs",
+              "RelativeToolTip": "Esercizio_gestione_libreria\\Models\\EsercizioGestioneLibreriaContext.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAtwFMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:28:50.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

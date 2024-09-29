@@ -1,0 +1,14 @@
+C:\Users\federico.dattilo\source\repos\lez02_05_classi_e_oggetti\lez02_05_classi_e_oggetti\obj\Debug\net8.0\lez02_05_classi_e_oggetti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.dattilo\source\repos\lez02_05_classi_e_oggetti\lez02_05_classi_e_oggetti\obj\Debug\net8.0\lez02_05_classi_e_oggetti.AssemblyInfoInputs.cache
+C:\Users\federico.dattilo\source\repos\lez02_05_classi_e_oggetti\lez02_05_classi_e_oggetti\obj\Debug\net8.0\lez02_05_classi_e_oggetti.AssemblyInfo.cs
+C:\Users\federico.dattilo\source\repos\lez02_05_classi_e_oggetti\lez02_05_classi_e_oggetti\obj\Debug\net8.0\lez02_05_classi_e_oggetti.csproj.CoreCompileInputs.cache
+C:\Users\federico.dattilo\source\repos\lez02_05_classi_e_oggetti\lez02_05_classi_e_oggetti\bin\Debug\net8.0\lez02_05_classi_e_oggetti.exe
+C:\Users\federico.dattilo\source\repos\lez02_05_classi_e_oggetti\lez02_05_classi_e_oggetti\bin\Debug\net8.0\lez02_05_classi_e_oggetti.deps.json
+C:\Users\federico.dattilo\source\repos\lez02_05_classi_e_oggetti\lez02_05_classi_e_oggetti\bin\Debug\net8.0\lez02_05_classi_e_oggetti.runtimeconfig.json
+C:\Users\federico.dattilo\source\repos\lez02_05_classi_e_oggetti\lez02_05_classi_e_oggetti\bin\Debug\net8.0\lez02_05_classi_e_oggetti.dll
+C:\Users\federico.dattilo\source\repos\lez02_05_classi_e_oggetti\lez02_05_classi_e_oggetti\bin\Debug\net8.0\lez02_05_classi_e_oggetti.pdb
+C:\Users\federico.dattilo\source\repos\lez02_05_classi_e_oggetti\lez02_05_classi_e_oggetti\obj\Debug\net8.0\lez02_05_classi_e_oggetti.dll
+C:\Users\federico.dattilo\source\repos\lez02_05_classi_e_oggetti\lez02_05_classi_e_oggetti\obj\Debug\net8.0\refint\lez02_05_classi_e_oggetti.dll
+C:\Users\federico.dattilo\source\repos\lez02_05_classi_e_oggetti\lez02_05_classi_e_oggetti\obj\Debug\net8.0\lez02_05_classi_e_oggetti.pdb
+C:\Users\federico.dattilo\source\repos\lez02_05_classi_e_oggetti\lez02_05_classi_e_oggetti\obj\Debug\net8.0\lez02_05_classi_e_oggetti.genruntimeconfig.cache
+C:\Users\federico.dattilo\source\repos\lez02_05_classi_e_oggetti\lez02_05_classi_e_oggetti\obj\Debug\net8.0\ref\lez02_05_classi_e_oggetti.dll

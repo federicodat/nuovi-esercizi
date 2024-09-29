@@ -1,0 +1,14 @@
+C:\Users\federico.dattilo\source\repos\lez01_09_ciclisemplici\lez01_09_ciclisemplici\bin\Debug\net8.0\lez01_09_ciclisemplici.exe
+C:\Users\federico.dattilo\source\repos\lez01_09_ciclisemplici\lez01_09_ciclisemplici\bin\Debug\net8.0\lez01_09_ciclisemplici.deps.json
+C:\Users\federico.dattilo\source\repos\lez01_09_ciclisemplici\lez01_09_ciclisemplici\bin\Debug\net8.0\lez01_09_ciclisemplici.runtimeconfig.json
+C:\Users\federico.dattilo\source\repos\lez01_09_ciclisemplici\lez01_09_ciclisemplici\bin\Debug\net8.0\lez01_09_ciclisemplici.dll
+C:\Users\federico.dattilo\source\repos\lez01_09_ciclisemplici\lez01_09_ciclisemplici\bin\Debug\net8.0\lez01_09_ciclisemplici.pdb
+C:\Users\federico.dattilo\source\repos\lez01_09_ciclisemplici\lez01_09_ciclisemplici\obj\Debug\net8.0\lez01_09_ciclisemplici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.dattilo\source\repos\lez01_09_ciclisemplici\lez01_09_ciclisemplici\obj\Debug\net8.0\lez01_09_ciclisemplici.AssemblyInfoInputs.cache
+C:\Users\federico.dattilo\source\repos\lez01_09_ciclisemplici\lez01_09_ciclisemplici\obj\Debug\net8.0\lez01_09_ciclisemplici.AssemblyInfo.cs
+C:\Users\federico.dattilo\source\repos\lez01_09_ciclisemplici\lez01_09_ciclisemplici\obj\Debug\net8.0\lez01_09_ciclisemplici.csproj.CoreCompileInputs.cache
+C:\Users\federico.dattilo\source\repos\lez01_09_ciclisemplici\lez01_09_ciclisemplici\obj\Debug\net8.0\lez01_09_ciclisemplici.dll
+C:\Users\federico.dattilo\source\repos\lez01_09_ciclisemplici\lez01_09_ciclisemplici\obj\Debug\net8.0\refint\lez01_09_ciclisemplici.dll
+C:\Users\federico.dattilo\source\repos\lez01_09_ciclisemplici\lez01_09_ciclisemplici\obj\Debug\net8.0\lez01_09_ciclisemplici.pdb
+C:\Users\federico.dattilo\source\repos\lez01_09_ciclisemplici\lez01_09_ciclisemplici\obj\Debug\net8.0\lez01_09_ciclisemplici.genruntimeconfig.cache
+C:\Users\federico.dattilo\source\repos\lez01_09_ciclisemplici\lez01_09_ciclisemplici\obj\Debug\net8.0\ref\lez01_09_ciclisemplici.dll

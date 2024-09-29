@@ -1,0 +1,14 @@
+C:\Users\federico.dattilo\source\repos\Linw_lez01_filtrinumeri\Linw_lez01_filtrinumeri\bin\Debug\net8.0\Linw_lez01_filtrinumeri.exe
+C:\Users\federico.dattilo\source\repos\Linw_lez01_filtrinumeri\Linw_lez01_filtrinumeri\bin\Debug\net8.0\Linw_lez01_filtrinumeri.deps.json
+C:\Users\federico.dattilo\source\repos\Linw_lez01_filtrinumeri\Linw_lez01_filtrinumeri\bin\Debug\net8.0\Linw_lez01_filtrinumeri.runtimeconfig.json
+C:\Users\federico.dattilo\source\repos\Linw_lez01_filtrinumeri\Linw_lez01_filtrinumeri\bin\Debug\net8.0\Linw_lez01_filtrinumeri.dll
+C:\Users\federico.dattilo\source\repos\Linw_lez01_filtrinumeri\Linw_lez01_filtrinumeri\bin\Debug\net8.0\Linw_lez01_filtrinumeri.pdb
+C:\Users\federico.dattilo\source\repos\Linw_lez01_filtrinumeri\Linw_lez01_filtrinumeri\obj\Debug\net8.0\Linw_lez01_filtrinumeri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.dattilo\source\repos\Linw_lez01_filtrinumeri\Linw_lez01_filtrinumeri\obj\Debug\net8.0\Linw_lez01_filtrinumeri.AssemblyInfoInputs.cache
+C:\Users\federico.dattilo\source\repos\Linw_lez01_filtrinumeri\Linw_lez01_filtrinumeri\obj\Debug\net8.0\Linw_lez01_filtrinumeri.AssemblyInfo.cs
+C:\Users\federico.dattilo\source\repos\Linw_lez01_filtrinumeri\Linw_lez01_filtrinumeri\obj\Debug\net8.0\Linw_lez01_filtrinumeri.csproj.CoreCompileInputs.cache
+C:\Users\federico.dattilo\source\repos\Linw_lez01_filtrinumeri\Linw_lez01_filtrinumeri\obj\Debug\net8.0\Linw_lez01_filtrinumeri.dll
+C:\Users\federico.dattilo\source\repos\Linw_lez01_filtrinumeri\Linw_lez01_filtrinumeri\obj\Debug\net8.0\refint\Linw_lez01_filtrinumeri.dll
+C:\Users\federico.dattilo\source\repos\Linw_lez01_filtrinumeri\Linw_lez01_filtrinumeri\obj\Debug\net8.0\Linw_lez01_filtrinumeri.pdb
+C:\Users\federico.dattilo\source\repos\Linw_lez01_filtrinumeri\Linw_lez01_filtrinumeri\obj\Debug\net8.0\Linw_lez01_filtrinumeri.genruntimeconfig.cache
+C:\Users\federico.dattilo\source\repos\Linw_lez01_filtrinumeri\Linw_lez01_filtrinumeri\obj\Debug\net8.0\ref\Linw_lez01_filtrinumeri.dll

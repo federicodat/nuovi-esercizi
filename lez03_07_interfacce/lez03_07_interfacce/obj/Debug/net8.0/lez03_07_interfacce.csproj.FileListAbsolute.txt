@@ -1,0 +1,14 @@
+C:\Users\federico.dattilo\source\repos\lez03_07_interfacce\lez03_07_interfacce\bin\Debug\net8.0\lez03_07_interfacce.exe
+C:\Users\federico.dattilo\source\repos\lez03_07_interfacce\lez03_07_interfacce\bin\Debug\net8.0\lez03_07_interfacce.deps.json
+C:\Users\federico.dattilo\source\repos\lez03_07_interfacce\lez03_07_interfacce\bin\Debug\net8.0\lez03_07_interfacce.runtimeconfig.json
+C:\Users\federico.dattilo\source\repos\lez03_07_interfacce\lez03_07_interfacce\bin\Debug\net8.0\lez03_07_interfacce.dll
+C:\Users\federico.dattilo\source\repos\lez03_07_interfacce\lez03_07_interfacce\bin\Debug\net8.0\lez03_07_interfacce.pdb
+C:\Users\federico.dattilo\source\repos\lez03_07_interfacce\lez03_07_interfacce\obj\Debug\net8.0\lez03_07_interfacce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.dattilo\source\repos\lez03_07_interfacce\lez03_07_interfacce\obj\Debug\net8.0\lez03_07_interfacce.AssemblyInfoInputs.cache
+C:\Users\federico.dattilo\source\repos\lez03_07_interfacce\lez03_07_interfacce\obj\Debug\net8.0\lez03_07_interfacce.AssemblyInfo.cs
+C:\Users\federico.dattilo\source\repos\lez03_07_interfacce\lez03_07_interfacce\obj\Debug\net8.0\lez03_07_interfacce.csproj.CoreCompileInputs.cache
+C:\Users\federico.dattilo\source\repos\lez03_07_interfacce\lez03_07_interfacce\obj\Debug\net8.0\lez03_07_interfacce.dll
+C:\Users\federico.dattilo\source\repos\lez03_07_interfacce\lez03_07_interfacce\obj\Debug\net8.0\refint\lez03_07_interfacce.dll
+C:\Users\federico.dattilo\source\repos\lez03_07_interfacce\lez03_07_interfacce\obj\Debug\net8.0\lez03_07_interfacce.pdb
+C:\Users\federico.dattilo\source\repos\lez03_07_interfacce\lez03_07_interfacce\obj\Debug\net8.0\lez03_07_interfacce.genruntimeconfig.cache
+C:\Users\federico.dattilo\source\repos\lez03_07_interfacce\lez03_07_interfacce\obj\Debug\net8.0\ref\lez03_07_interfacce.dll

@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\federico.dattilo\\source\\repos\\db_lez08_injection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA83F816-6CBB-4514-9431-DF8509EAC015}|db_lez08_injection\\db_lez08_injection.csproj|c:\\users\\federico.dattilo\\source\\repos\\db_lez08_injection\\db_lez08_injection\\models\\dal\\utentedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA83F816-6CBB-4514-9431-DF8509EAC015}|db_lez08_injection\\db_lez08_injection.csproj|solutionrelative:db_lez08_injection\\models\\dal\\utentedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA83F816-6CBB-4514-9431-DF8509EAC015}|db_lez08_injection\\db_lez08_injection.csproj|c:\\users\\federico.dattilo\\source\\repos\\db_lez08_injection\\db_lez08_injection\\models\\dal\\idaolettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA83F816-6CBB-4514-9431-DF8509EAC015}|db_lez08_injection\\db_lez08_injection.csproj|solutionrelative:db_lez08_injection\\models\\dal\\idaolettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA83F816-6CBB-4514-9431-DF8509EAC015}|db_lez08_injection\\db_lez08_injection.csproj|c:\\users\\federico.dattilo\\source\\repos\\db_lez08_injection\\db_lez08_injection\\models\\dal\\idaoscrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA83F816-6CBB-4514-9431-DF8509EAC015}|db_lez08_injection\\db_lez08_injection.csproj|solutionrelative:db_lez08_injection\\models\\dal\\idaoscrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA83F816-6CBB-4514-9431-DF8509EAC015}|db_lez08_injection\\db_lez08_injection.csproj|c:\\users\\federico.dattilo\\source\\repos\\db_lez08_injection\\db_lez08_injection\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA83F816-6CBB-4514-9431-DF8509EAC015}|db_lez08_injection\\db_lez08_injection.csproj|solutionrelative:db_lez08_injection\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA83F816-6CBB-4514-9431-DF8509EAC015}|db_lez08_injection\\db_lez08_injection.csproj|c:\\users\\federico.dattilo\\source\\repos\\db_lez08_injection\\db_lez08_injection\\models\\dal\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA83F816-6CBB-4514-9431-DF8509EAC015}|db_lez08_injection\\db_lez08_injection.csproj|solutionrelative:db_lez08_injection\\models\\dal\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA83F816-6CBB-4514-9431-DF8509EAC015}|db_lez08_injection\\db_lez08_injection.csproj|c:\\users\\federico.dattilo\\source\\repos\\db_lez08_injection\\db_lez08_injection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA83F816-6CBB-4514-9431-DF8509EAC015}|db_lez08_injection\\db_lez08_injection.csproj|solutionrelative:db_lez08_injection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UtenteDao.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\db_lez08_injection\\db_lez08_injection\\Models\\Dal\\UtenteDao.cs",
+              "RelativeDocumentMoniker": "db_lez08_injection\\Models\\Dal\\UtenteDao.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\db_lez08_injection\\db_lez08_injection\\Models\\Dal\\UtenteDao.cs",
+              "RelativeToolTip": "db_lez08_injection\\Models\\Dal\\UtenteDao.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:34:25.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDaoScrittura.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\db_lez08_injection\\db_lez08_injection\\Models\\Dal\\IDaoScrittura.cs",
+              "RelativeDocumentMoniker": "db_lez08_injection\\Models\\Dal\\IDaoScrittura.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\db_lez08_injection\\db_lez08_injection\\Models\\Dal\\IDaoScrittura.cs",
+              "RelativeToolTip": "db_lez08_injection\\Models\\Dal\\IDaoScrittura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:33:02.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDaoLettura.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\db_lez08_injection\\db_lez08_injection\\Models\\Dal\\IDaoLettura.cs",
+              "RelativeDocumentMoniker": "db_lez08_injection\\Models\\Dal\\IDaoLettura.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\db_lez08_injection\\db_lez08_injection\\Models\\Dal\\IDaoLettura.cs",
+              "RelativeToolTip": "db_lez08_injection\\Models\\Dal\\IDaoLettura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:32:00.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\db_lez08_injection\\db_lez08_injection\\Models\\Dal\\Config.cs",
+              "RelativeDocumentMoniker": "db_lez08_injection\\Models\\Dal\\Config.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\db_lez08_injection\\db_lez08_injection\\Models\\Dal\\Config.cs",
+              "RelativeToolTip": "db_lez08_injection\\Models\\Dal\\Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:28:53.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utente.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\db_lez08_injection\\db_lez08_injection\\Models\\Utente.cs",
+              "RelativeDocumentMoniker": "db_lez08_injection\\Models\\Utente.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\db_lez08_injection\\db_lez08_injection\\Models\\Utente.cs",
+              "RelativeToolTip": "db_lez08_injection\\Models\\Utente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:27:15.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\db_lez08_injection\\db_lez08_injection\\Program.cs",
+              "RelativeDocumentMoniker": "db_lez08_injection\\Program.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\db_lez08_injection\\db_lez08_injection\\Program.cs",
+              "RelativeToolTip": "db_lez08_injection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:26:05.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

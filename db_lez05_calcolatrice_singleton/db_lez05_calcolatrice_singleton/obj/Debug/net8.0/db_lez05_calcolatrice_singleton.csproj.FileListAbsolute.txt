@@ -1,0 +1,14 @@
+C:\Users\federico.dattilo\source\repos\db_lez05_calcolatrice_singleton\db_lez05_calcolatrice_singleton\bin\Debug\net8.0\db_lez05_calcolatrice_singleton.exe
+C:\Users\federico.dattilo\source\repos\db_lez05_calcolatrice_singleton\db_lez05_calcolatrice_singleton\bin\Debug\net8.0\db_lez05_calcolatrice_singleton.deps.json
+C:\Users\federico.dattilo\source\repos\db_lez05_calcolatrice_singleton\db_lez05_calcolatrice_singleton\bin\Debug\net8.0\db_lez05_calcolatrice_singleton.runtimeconfig.json
+C:\Users\federico.dattilo\source\repos\db_lez05_calcolatrice_singleton\db_lez05_calcolatrice_singleton\bin\Debug\net8.0\db_lez05_calcolatrice_singleton.dll
+C:\Users\federico.dattilo\source\repos\db_lez05_calcolatrice_singleton\db_lez05_calcolatrice_singleton\bin\Debug\net8.0\db_lez05_calcolatrice_singleton.pdb
+C:\Users\federico.dattilo\source\repos\db_lez05_calcolatrice_singleton\db_lez05_calcolatrice_singleton\obj\Debug\net8.0\db_lez05_calcolatrice_singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.dattilo\source\repos\db_lez05_calcolatrice_singleton\db_lez05_calcolatrice_singleton\obj\Debug\net8.0\db_lez05_calcolatrice_singleton.AssemblyInfoInputs.cache
+C:\Users\federico.dattilo\source\repos\db_lez05_calcolatrice_singleton\db_lez05_calcolatrice_singleton\obj\Debug\net8.0\db_lez05_calcolatrice_singleton.AssemblyInfo.cs
+C:\Users\federico.dattilo\source\repos\db_lez05_calcolatrice_singleton\db_lez05_calcolatrice_singleton\obj\Debug\net8.0\db_lez05_calcolatrice_singleton.csproj.CoreCompileInputs.cache
+C:\Users\federico.dattilo\source\repos\db_lez05_calcolatrice_singleton\db_lez05_calcolatrice_singleton\obj\Debug\net8.0\db_lez05_calcolatrice_singleton.dll
+C:\Users\federico.dattilo\source\repos\db_lez05_calcolatrice_singleton\db_lez05_calcolatrice_singleton\obj\Debug\net8.0\refint\db_lez05_calcolatrice_singleton.dll
+C:\Users\federico.dattilo\source\repos\db_lez05_calcolatrice_singleton\db_lez05_calcolatrice_singleton\obj\Debug\net8.0\db_lez05_calcolatrice_singleton.pdb
+C:\Users\federico.dattilo\source\repos\db_lez05_calcolatrice_singleton\db_lez05_calcolatrice_singleton\obj\Debug\net8.0\db_lez05_calcolatrice_singleton.genruntimeconfig.cache
+C:\Users\federico.dattilo\source\repos\db_lez05_calcolatrice_singleton\db_lez05_calcolatrice_singleton\obj\Debug\net8.0\ref\db_lez05_calcolatrice_singleton.dll

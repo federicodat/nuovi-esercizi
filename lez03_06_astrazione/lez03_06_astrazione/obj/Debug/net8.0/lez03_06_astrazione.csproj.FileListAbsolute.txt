@@ -1,0 +1,14 @@
+C:\Users\federico.dattilo\source\repos\lez03_06_astrazione\lez03_06_astrazione\obj\Debug\net8.0\lez03_06_astrazione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.dattilo\source\repos\lez03_06_astrazione\lez03_06_astrazione\obj\Debug\net8.0\lez03_06_astrazione.AssemblyInfoInputs.cache
+C:\Users\federico.dattilo\source\repos\lez03_06_astrazione\lez03_06_astrazione\obj\Debug\net8.0\lez03_06_astrazione.AssemblyInfo.cs
+C:\Users\federico.dattilo\source\repos\lez03_06_astrazione\lez03_06_astrazione\obj\Debug\net8.0\lez03_06_astrazione.csproj.CoreCompileInputs.cache
+C:\Users\federico.dattilo\source\repos\lez03_06_astrazione\lez03_06_astrazione\bin\Debug\net8.0\lez03_06_astrazione.exe
+C:\Users\federico.dattilo\source\repos\lez03_06_astrazione\lez03_06_astrazione\bin\Debug\net8.0\lez03_06_astrazione.deps.json
+C:\Users\federico.dattilo\source\repos\lez03_06_astrazione\lez03_06_astrazione\bin\Debug\net8.0\lez03_06_astrazione.runtimeconfig.json
+C:\Users\federico.dattilo\source\repos\lez03_06_astrazione\lez03_06_astrazione\bin\Debug\net8.0\lez03_06_astrazione.dll
+C:\Users\federico.dattilo\source\repos\lez03_06_astrazione\lez03_06_astrazione\bin\Debug\net8.0\lez03_06_astrazione.pdb
+C:\Users\federico.dattilo\source\repos\lez03_06_astrazione\lez03_06_astrazione\obj\Debug\net8.0\lez03_06_astrazione.dll
+C:\Users\federico.dattilo\source\repos\lez03_06_astrazione\lez03_06_astrazione\obj\Debug\net8.0\refint\lez03_06_astrazione.dll
+C:\Users\federico.dattilo\source\repos\lez03_06_astrazione\lez03_06_astrazione\obj\Debug\net8.0\lez03_06_astrazione.pdb
+C:\Users\federico.dattilo\source\repos\lez03_06_astrazione\lez03_06_astrazione\obj\Debug\net8.0\lez03_06_astrazione.genruntimeconfig.cache
+C:\Users\federico.dattilo\source\repos\lez03_06_astrazione\lez03_06_astrazione\obj\Debug\net8.0\ref\lez03_06_astrazione.dll

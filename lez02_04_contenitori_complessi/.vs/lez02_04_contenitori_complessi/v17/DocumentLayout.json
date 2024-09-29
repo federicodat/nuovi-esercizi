@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\federico.dattilo\\source\\repos\\lez02_04_contenitori_complessi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA8CEFA-120C-4990-94F4-9138B3FDF308}|lez02_04_contenitori_complessi\\lez02_04_contenitori_complessi.csproj|c:\\users\\federico.dattilo\\source\\repos\\lez02_04_contenitori_complessi\\lez02_04_contenitori_complessi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA8CEFA-120C-4990-94F4-9138B3FDF308}|lez02_04_contenitori_complessi\\lez02_04_contenitori_complessi.csproj|solutionrelative:lez02_04_contenitori_complessi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\lez02_04_contenitori_complessi\\lez02_04_contenitori_complessi\\Program.cs",
+              "RelativeDocumentMoniker": "lez02_04_contenitori_complessi\\Program.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\lez02_04_contenitori_complessi\\lez02_04_contenitori_complessi\\Program.cs",
+              "RelativeToolTip": "lez02_04_contenitori_complessi\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:41:07.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+C:\Users\federico.dattilo\source\repos\lez03_10_object\lez03_10_object\obj\Debug\net8.0\lez03_10_object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.dattilo\source\repos\lez03_10_object\lez03_10_object\obj\Debug\net8.0\lez03_10_object.AssemblyInfoInputs.cache
+C:\Users\federico.dattilo\source\repos\lez03_10_object\lez03_10_object\obj\Debug\net8.0\lez03_10_object.AssemblyInfo.cs
+C:\Users\federico.dattilo\source\repos\lez03_10_object\lez03_10_object\obj\Debug\net8.0\lez03_10_object.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\federico.dattilo\source\repos\lez01_08_controlli_complessi\lez01_08_controlli_complessi\bin\Debug\net8.0\lez01_08_controlli_complessi.exe
+C:\Users\federico.dattilo\source\repos\lez01_08_controlli_complessi\lez01_08_controlli_complessi\bin\Debug\net8.0\lez01_08_controlli_complessi.deps.json
+C:\Users\federico.dattilo\source\repos\lez01_08_controlli_complessi\lez01_08_controlli_complessi\bin\Debug\net8.0\lez01_08_controlli_complessi.runtimeconfig.json
+C:\Users\federico.dattilo\source\repos\lez01_08_controlli_complessi\lez01_08_controlli_complessi\bin\Debug\net8.0\lez01_08_controlli_complessi.dll
+C:\Users\federico.dattilo\source\repos\lez01_08_controlli_complessi\lez01_08_controlli_complessi\bin\Debug\net8.0\lez01_08_controlli_complessi.pdb
+C:\Users\federico.dattilo\source\repos\lez01_08_controlli_complessi\lez01_08_controlli_complessi\obj\Debug\net8.0\lez01_08_controlli_complessi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.dattilo\source\repos\lez01_08_controlli_complessi\lez01_08_controlli_complessi\obj\Debug\net8.0\lez01_08_controlli_complessi.AssemblyInfoInputs.cache
+C:\Users\federico.dattilo\source\repos\lez01_08_controlli_complessi\lez01_08_controlli_complessi\obj\Debug\net8.0\lez01_08_controlli_complessi.AssemblyInfo.cs
+C:\Users\federico.dattilo\source\repos\lez01_08_controlli_complessi\lez01_08_controlli_complessi\obj\Debug\net8.0\lez01_08_controlli_complessi.csproj.CoreCompileInputs.cache
+C:\Users\federico.dattilo\source\repos\lez01_08_controlli_complessi\lez01_08_controlli_complessi\obj\Debug\net8.0\lez01_08_controlli_complessi.dll
+C:\Users\federico.dattilo\source\repos\lez01_08_controlli_complessi\lez01_08_controlli_complessi\obj\Debug\net8.0\refint\lez01_08_controlli_complessi.dll
+C:\Users\federico.dattilo\source\repos\lez01_08_controlli_complessi\lez01_08_controlli_complessi\obj\Debug\net8.0\lez01_08_controlli_complessi.pdb
+C:\Users\federico.dattilo\source\repos\lez01_08_controlli_complessi\lez01_08_controlli_complessi\obj\Debug\net8.0\lez01_08_controlli_complessi.genruntimeconfig.cache
+C:\Users\federico.dattilo\source\repos\lez01_08_controlli_complessi\lez01_08_controlli_complessi\obj\Debug\net8.0\ref\lez01_08_controlli_complessi.dll

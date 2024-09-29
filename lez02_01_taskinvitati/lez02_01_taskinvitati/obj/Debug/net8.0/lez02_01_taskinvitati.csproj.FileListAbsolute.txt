@@ -1,0 +1,14 @@
+C:\Users\federico.dattilo\source\repos\lez02_01_taskinvitati\lez02_01_taskinvitati\obj\Debug\net8.0\lez02_01_taskinvitati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.dattilo\source\repos\lez02_01_taskinvitati\lez02_01_taskinvitati\obj\Debug\net8.0\lez02_01_taskinvitati.AssemblyInfoInputs.cache
+C:\Users\federico.dattilo\source\repos\lez02_01_taskinvitati\lez02_01_taskinvitati\obj\Debug\net8.0\lez02_01_taskinvitati.AssemblyInfo.cs
+C:\Users\federico.dattilo\source\repos\lez02_01_taskinvitati\lez02_01_taskinvitati\obj\Debug\net8.0\lez02_01_taskinvitati.csproj.CoreCompileInputs.cache
+C:\Users\federico.dattilo\source\repos\lez02_01_taskinvitati\lez02_01_taskinvitati\bin\Debug\net8.0\lez02_01_taskinvitati.exe
+C:\Users\federico.dattilo\source\repos\lez02_01_taskinvitati\lez02_01_taskinvitati\bin\Debug\net8.0\lez02_01_taskinvitati.deps.json
+C:\Users\federico.dattilo\source\repos\lez02_01_taskinvitati\lez02_01_taskinvitati\bin\Debug\net8.0\lez02_01_taskinvitati.runtimeconfig.json
+C:\Users\federico.dattilo\source\repos\lez02_01_taskinvitati\lez02_01_taskinvitati\bin\Debug\net8.0\lez02_01_taskinvitati.dll
+C:\Users\federico.dattilo\source\repos\lez02_01_taskinvitati\lez02_01_taskinvitati\bin\Debug\net8.0\lez02_01_taskinvitati.pdb
+C:\Users\federico.dattilo\source\repos\lez02_01_taskinvitati\lez02_01_taskinvitati\obj\Debug\net8.0\lez02_01_taskinvitati.dll
+C:\Users\federico.dattilo\source\repos\lez02_01_taskinvitati\lez02_01_taskinvitati\obj\Debug\net8.0\refint\lez02_01_taskinvitati.dll
+C:\Users\federico.dattilo\source\repos\lez02_01_taskinvitati\lez02_01_taskinvitati\obj\Debug\net8.0\lez02_01_taskinvitati.pdb
+C:\Users\federico.dattilo\source\repos\lez02_01_taskinvitati\lez02_01_taskinvitati\obj\Debug\net8.0\lez02_01_taskinvitati.genruntimeconfig.cache
+C:\Users\federico.dattilo\source\repos\lez02_01_taskinvitati\lez02_01_taskinvitati\obj\Debug\net8.0\ref\lez02_01_taskinvitati.dll

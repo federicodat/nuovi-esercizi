@@ -1,0 +1,14 @@
+C:\Users\federico.dattilo\source\repos\lez04_02_composizioni\lez04_02_composizioni\bin\Debug\net8.0\lez04_02_composizioni.exe
+C:\Users\federico.dattilo\source\repos\lez04_02_composizioni\lez04_02_composizioni\bin\Debug\net8.0\lez04_02_composizioni.deps.json
+C:\Users\federico.dattilo\source\repos\lez04_02_composizioni\lez04_02_composizioni\bin\Debug\net8.0\lez04_02_composizioni.runtimeconfig.json
+C:\Users\federico.dattilo\source\repos\lez04_02_composizioni\lez04_02_composizioni\bin\Debug\net8.0\lez04_02_composizioni.dll
+C:\Users\federico.dattilo\source\repos\lez04_02_composizioni\lez04_02_composizioni\bin\Debug\net8.0\lez04_02_composizioni.pdb
+C:\Users\federico.dattilo\source\repos\lez04_02_composizioni\lez04_02_composizioni\obj\Debug\net8.0\lez04_02_composizioni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.dattilo\source\repos\lez04_02_composizioni\lez04_02_composizioni\obj\Debug\net8.0\lez04_02_composizioni.AssemblyInfoInputs.cache
+C:\Users\federico.dattilo\source\repos\lez04_02_composizioni\lez04_02_composizioni\obj\Debug\net8.0\lez04_02_composizioni.AssemblyInfo.cs
+C:\Users\federico.dattilo\source\repos\lez04_02_composizioni\lez04_02_composizioni\obj\Debug\net8.0\lez04_02_composizioni.csproj.CoreCompileInputs.cache
+C:\Users\federico.dattilo\source\repos\lez04_02_composizioni\lez04_02_composizioni\obj\Debug\net8.0\lez04_02_composizioni.dll
+C:\Users\federico.dattilo\source\repos\lez04_02_composizioni\lez04_02_composizioni\obj\Debug\net8.0\refint\lez04_02_composizioni.dll
+C:\Users\federico.dattilo\source\repos\lez04_02_composizioni\lez04_02_composizioni\obj\Debug\net8.0\lez04_02_composizioni.pdb
+C:\Users\federico.dattilo\source\repos\lez04_02_composizioni\lez04_02_composizioni\obj\Debug\net8.0\lez04_02_composizioni.genruntimeconfig.cache
+C:\Users\federico.dattilo\source\repos\lez04_02_composizioni\lez04_02_composizioni\obj\Debug\net8.0\ref\lez04_02_composizioni.dll

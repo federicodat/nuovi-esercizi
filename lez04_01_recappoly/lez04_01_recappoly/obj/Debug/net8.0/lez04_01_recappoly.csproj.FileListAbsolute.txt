@@ -1,0 +1,14 @@
+C:\Users\federico.dattilo\source\repos\lez04_01_recappoly\lez04_01_recappoly\obj\Debug\net8.0\lez04_01_recappoly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.dattilo\source\repos\lez04_01_recappoly\lez04_01_recappoly\obj\Debug\net8.0\lez04_01_recappoly.AssemblyInfoInputs.cache
+C:\Users\federico.dattilo\source\repos\lez04_01_recappoly\lez04_01_recappoly\obj\Debug\net8.0\lez04_01_recappoly.AssemblyInfo.cs
+C:\Users\federico.dattilo\source\repos\lez04_01_recappoly\lez04_01_recappoly\obj\Debug\net8.0\lez04_01_recappoly.csproj.CoreCompileInputs.cache
+C:\Users\federico.dattilo\source\repos\lez04_01_recappoly\lez04_01_recappoly\bin\Debug\net8.0\lez04_01_recappoly.exe
+C:\Users\federico.dattilo\source\repos\lez04_01_recappoly\lez04_01_recappoly\bin\Debug\net8.0\lez04_01_recappoly.deps.json
+C:\Users\federico.dattilo\source\repos\lez04_01_recappoly\lez04_01_recappoly\bin\Debug\net8.0\lez04_01_recappoly.runtimeconfig.json
+C:\Users\federico.dattilo\source\repos\lez04_01_recappoly\lez04_01_recappoly\bin\Debug\net8.0\lez04_01_recappoly.dll
+C:\Users\federico.dattilo\source\repos\lez04_01_recappoly\lez04_01_recappoly\bin\Debug\net8.0\lez04_01_recappoly.pdb
+C:\Users\federico.dattilo\source\repos\lez04_01_recappoly\lez04_01_recappoly\obj\Debug\net8.0\lez04_01_recappoly.dll
+C:\Users\federico.dattilo\source\repos\lez04_01_recappoly\lez04_01_recappoly\obj\Debug\net8.0\refint\lez04_01_recappoly.dll
+C:\Users\federico.dattilo\source\repos\lez04_01_recappoly\lez04_01_recappoly\obj\Debug\net8.0\lez04_01_recappoly.pdb
+C:\Users\federico.dattilo\source\repos\lez04_01_recappoly\lez04_01_recappoly\obj\Debug\net8.0\lez04_01_recappoly.genruntimeconfig.cache
+C:\Users\federico.dattilo\source\repos\lez04_01_recappoly\lez04_01_recappoly\obj\Debug\net8.0\ref\lez04_01_recappoly.dll

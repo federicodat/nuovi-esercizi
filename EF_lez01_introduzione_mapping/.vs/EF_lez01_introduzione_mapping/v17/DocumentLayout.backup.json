@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\federico.dattilo\\source\\repos\\EF_lez01_introduzione_mapping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F290D42C-F1FE-4BB1-8AAC-4A6BF3582CC6}|EF_lez01_introduzione_mapping\\EF_lez01_introduzione_mapping.csproj|c:\\users\\federico.dattilo\\source\\repos\\ef_lez01_introduzione_mapping\\ef_lez01_introduzione_mapping\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F290D42C-F1FE-4BB1-8AAC-4A6BF3582CC6}|EF_lez01_introduzione_mapping\\EF_lez01_introduzione_mapping.csproj|solutionrelative:ef_lez01_introduzione_mapping\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Models\\DAL\\IDao_Scrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F290D42C-F1FE-4BB1-8AAC-4A6BF3582CC6}|EF_lez01_introduzione_mapping\\EF_lez01_introduzione_mapping.csproj|c:\\users\\federico.dattilo\\source\\repos\\ef_lez01_introduzione_mapping\\ef_lez01_introduzione_mapping\\models\\dblez02libreriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F290D42C-F1FE-4BB1-8AAC-4A6BF3582CC6}|EF_lez01_introduzione_mapping\\EF_lez01_introduzione_mapping.csproj|solutionrelative:ef_lez01_introduzione_mapping\\models\\dblez02libreriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Models\\Edicola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Models\\DAL\\RivistaDAO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Models\\Giocattolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Models\\Rivista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Models\\Oggetto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F290D42C-F1FE-4BB1-8AAC-4A6BF3582CC6}|EF_lez01_introduzione_mapping\\EF_lez01_introduzione_mapping.csproj|c:\\users\\federico.dattilo\\source\\repos\\ef_lez01_introduzione_mapping\\ef_lez01_introduzione_mapping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F290D42C-F1FE-4BB1-8AAC-4A6BF3582CC6}|EF_lez01_introduzione_mapping\\EF_lez01_introduzione_mapping.csproj|solutionrelative:ef_lez01_introduzione_mapping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Program.cs",
+              "ToolTip": "C:\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:22:02.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDao_Scrittura.cs",
+              "DocumentMoniker": "C:\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Models\\DAL\\IDao_Scrittura.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Models\\DAL\\IDao_Scrittura.cs",
+              "ToolTip": "C:\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Models\\DAL\\IDao_Scrittura.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Models\\DAL\\IDao_Scrittura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:22:02.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\EF_lez01_introduzione_mapping\\EF_lez01_introduzione_mapping\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "EF_lez01_introduzione_mapping\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\EF_lez01_introduzione_mapping\\EF_lez01_introduzione_mapping\\Models\\Libro.cs",
+              "RelativeToolTip": "EF_lez01_introduzione_mapping\\Models\\Libro.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:48:48.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbLez02LibreriaContext.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\EF_lez01_introduzione_mapping\\EF_lez01_introduzione_mapping\\Models\\DbLez02LibreriaContext.cs",
+              "RelativeDocumentMoniker": "EF_lez01_introduzione_mapping\\Models\\DbLez02LibreriaContext.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\EF_lez01_introduzione_mapping\\EF_lez01_introduzione_mapping\\Models\\DbLez02LibreriaContext.cs",
+              "RelativeToolTip": "EF_lez01_introduzione_mapping\\Models\\DbLez02LibreriaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:46:20.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edicola.cs",
+              "DocumentMoniker": "C:\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Models\\Edicola.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Models\\Edicola.cs",
+              "ToolTip": "C:\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Models\\Edicola.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Models\\Edicola.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:22:03.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RivistaDAO.cs",
+              "DocumentMoniker": "C:\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Models\\DAL\\RivistaDAO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Models\\DAL\\RivistaDAO.cs",
+              "ToolTip": "C:\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Models\\DAL\\RivistaDAO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Models\\DAL\\RivistaDAO.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:22:02.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Giocattolo.cs",
+              "DocumentMoniker": "C:\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Models\\Giocattolo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Models\\Giocattolo.cs",
+              "ToolTip": "C:\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Models\\Giocattolo.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Models\\Giocattolo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:22:02.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Rivista.cs",
+              "DocumentMoniker": "C:\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Models\\Rivista.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Models\\Rivista.cs",
+              "ToolTip": "C:\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Models\\Rivista.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Models\\Rivista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:22:02.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Oggetto.cs",
+              "DocumentMoniker": "C:\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Models\\Oggetto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Models\\Oggetto.cs",
+              "ToolTip": "C:\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Models\\Oggetto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\db_lez06_task_edicola\\db_lez06_task_edicola\\Models\\Oggetto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:22:00.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\EF_lez01_introduzione_mapping\\EF_lez01_introduzione_mapping\\Program.cs",
+              "RelativeDocumentMoniker": "EF_lez01_introduzione_mapping\\Program.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\EF_lez01_introduzione_mapping\\EF_lez01_introduzione_mapping\\Program.cs",
+              "RelativeToolTip": "EF_lez01_introduzione_mapping\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwv1EAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T10:49:38.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

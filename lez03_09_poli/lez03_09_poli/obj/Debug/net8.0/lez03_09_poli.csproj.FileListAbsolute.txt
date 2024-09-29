@@ -1,0 +1,14 @@
+C:\Users\federico.dattilo\source\repos\lez03_09_poli\lez03_09_poli\obj\Debug\net8.0\lez03_09_poli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.dattilo\source\repos\lez03_09_poli\lez03_09_poli\obj\Debug\net8.0\lez03_09_poli.AssemblyInfoInputs.cache
+C:\Users\federico.dattilo\source\repos\lez03_09_poli\lez03_09_poli\obj\Debug\net8.0\lez03_09_poli.AssemblyInfo.cs
+C:\Users\federico.dattilo\source\repos\lez03_09_poli\lez03_09_poli\obj\Debug\net8.0\lez03_09_poli.csproj.CoreCompileInputs.cache
+C:\Users\federico.dattilo\source\repos\lez03_09_poli\lez03_09_poli\bin\Debug\net8.0\lez03_09_poli.exe
+C:\Users\federico.dattilo\source\repos\lez03_09_poli\lez03_09_poli\bin\Debug\net8.0\lez03_09_poli.deps.json
+C:\Users\federico.dattilo\source\repos\lez03_09_poli\lez03_09_poli\bin\Debug\net8.0\lez03_09_poli.runtimeconfig.json
+C:\Users\federico.dattilo\source\repos\lez03_09_poli\lez03_09_poli\bin\Debug\net8.0\lez03_09_poli.dll
+C:\Users\federico.dattilo\source\repos\lez03_09_poli\lez03_09_poli\bin\Debug\net8.0\lez03_09_poli.pdb
+C:\Users\federico.dattilo\source\repos\lez03_09_poli\lez03_09_poli\obj\Debug\net8.0\lez03_09_poli.dll
+C:\Users\federico.dattilo\source\repos\lez03_09_poli\lez03_09_poli\obj\Debug\net8.0\refint\lez03_09_poli.dll
+C:\Users\federico.dattilo\source\repos\lez03_09_poli\lez03_09_poli\obj\Debug\net8.0\lez03_09_poli.pdb
+C:\Users\federico.dattilo\source\repos\lez03_09_poli\lez03_09_poli\obj\Debug\net8.0\lez03_09_poli.genruntimeconfig.cache
+C:\Users\federico.dattilo\source\repos\lez03_09_poli\lez03_09_poli\obj\Debug\net8.0\ref\lez03_09_poli.dll

@@ -1,0 +1,4 @@
+C:\Users\federico.dattilo\source\repos\LEZ03_04_EREDITARIETA\LEZ03_04_EREDITARIETA\obj\Debug\net8.0\LEZ03_04_EREDITARIETA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.dattilo\source\repos\LEZ03_04_EREDITARIETA\LEZ03_04_EREDITARIETA\obj\Debug\net8.0\LEZ03_04_EREDITARIETA.AssemblyInfoInputs.cache
+C:\Users\federico.dattilo\source\repos\LEZ03_04_EREDITARIETA\LEZ03_04_EREDITARIETA\obj\Debug\net8.0\LEZ03_04_EREDITARIETA.AssemblyInfo.cs
+C:\Users\federico.dattilo\source\repos\LEZ03_04_EREDITARIETA\LEZ03_04_EREDITARIETA\obj\Debug\net8.0\LEZ03_04_EREDITARIETA.csproj.CoreCompileInputs.cache

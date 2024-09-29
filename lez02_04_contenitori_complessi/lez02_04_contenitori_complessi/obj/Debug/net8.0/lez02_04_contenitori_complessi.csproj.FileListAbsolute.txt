@@ -1,0 +1,14 @@
+C:\Users\federico.dattilo\source\repos\lez02_04_contenitori_complessi\lez02_04_contenitori_complessi\obj\Debug\net8.0\lez02_04_contenitori_complessi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.dattilo\source\repos\lez02_04_contenitori_complessi\lez02_04_contenitori_complessi\obj\Debug\net8.0\lez02_04_contenitori_complessi.AssemblyInfoInputs.cache
+C:\Users\federico.dattilo\source\repos\lez02_04_contenitori_complessi\lez02_04_contenitori_complessi\obj\Debug\net8.0\lez02_04_contenitori_complessi.AssemblyInfo.cs
+C:\Users\federico.dattilo\source\repos\lez02_04_contenitori_complessi\lez02_04_contenitori_complessi\obj\Debug\net8.0\lez02_04_contenitori_complessi.csproj.CoreCompileInputs.cache
+C:\Users\federico.dattilo\source\repos\lez02_04_contenitori_complessi\lez02_04_contenitori_complessi\bin\Debug\net8.0\lez02_04_contenitori_complessi.exe
+C:\Users\federico.dattilo\source\repos\lez02_04_contenitori_complessi\lez02_04_contenitori_complessi\bin\Debug\net8.0\lez02_04_contenitori_complessi.deps.json
+C:\Users\federico.dattilo\source\repos\lez02_04_contenitori_complessi\lez02_04_contenitori_complessi\bin\Debug\net8.0\lez02_04_contenitori_complessi.runtimeconfig.json
+C:\Users\federico.dattilo\source\repos\lez02_04_contenitori_complessi\lez02_04_contenitori_complessi\bin\Debug\net8.0\lez02_04_contenitori_complessi.dll
+C:\Users\federico.dattilo\source\repos\lez02_04_contenitori_complessi\lez02_04_contenitori_complessi\bin\Debug\net8.0\lez02_04_contenitori_complessi.pdb
+C:\Users\federico.dattilo\source\repos\lez02_04_contenitori_complessi\lez02_04_contenitori_complessi\obj\Debug\net8.0\lez02_04_contenitori_complessi.dll
+C:\Users\federico.dattilo\source\repos\lez02_04_contenitori_complessi\lez02_04_contenitori_complessi\obj\Debug\net8.0\refint\lez02_04_contenitori_complessi.dll
+C:\Users\federico.dattilo\source\repos\lez02_04_contenitori_complessi\lez02_04_contenitori_complessi\obj\Debug\net8.0\lez02_04_contenitori_complessi.pdb
+C:\Users\federico.dattilo\source\repos\lez02_04_contenitori_complessi\lez02_04_contenitori_complessi\obj\Debug\net8.0\lez02_04_contenitori_complessi.genruntimeconfig.cache
+C:\Users\federico.dattilo\source\repos\lez02_04_contenitori_complessi\lez02_04_contenitori_complessi\obj\Debug\net8.0\ref\lez02_04_contenitori_complessi.dll

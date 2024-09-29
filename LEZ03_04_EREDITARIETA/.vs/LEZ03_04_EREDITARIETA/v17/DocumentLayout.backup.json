@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\federico.dattilo\\source\\repos\\LEZ03_04_EREDITARIETA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3F8188-868E-49B3-90C3-45498BFF2317}|LEZ03_04_EREDITARIETA\\LEZ03_04_EREDITARIETA.csproj|c:\\users\\federico.dattilo\\source\\repos\\lez03_04_ereditarieta\\lez03_04_ereditarieta\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3F8188-868E-49B3-90C3-45498BFF2317}|LEZ03_04_EREDITARIETA\\LEZ03_04_EREDITARIETA.csproj|solutionrelative:lez03_04_ereditarieta\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3F8188-868E-49B3-90C3-45498BFF2317}|LEZ03_04_EREDITARIETA\\LEZ03_04_EREDITARIETA.csproj|c:\\users\\federico.dattilo\\source\\repos\\lez03_04_ereditarieta\\lez03_04_ereditarieta\\classes\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3F8188-868E-49B3-90C3-45498BFF2317}|LEZ03_04_EREDITARIETA\\LEZ03_04_EREDITARIETA.csproj|solutionrelative:lez03_04_ereditarieta\\classes\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3F8188-868E-49B3-90C3-45498BFF2317}|LEZ03_04_EREDITARIETA\\LEZ03_04_EREDITARIETA.csproj|c:\\users\\federico.dattilo\\source\\repos\\lez03_04_ereditarieta\\lez03_04_ereditarieta\\classes\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3F8188-868E-49B3-90C3-45498BFF2317}|LEZ03_04_EREDITARIETA\\LEZ03_04_EREDITARIETA.csproj|solutionrelative:lez03_04_ereditarieta\\classes\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3F8188-868E-49B3-90C3-45498BFF2317}|LEZ03_04_EREDITARIETA\\LEZ03_04_EREDITARIETA.csproj|c:\\users\\federico.dattilo\\source\\repos\\lez03_04_ereditarieta\\lez03_04_ereditarieta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3F8188-868E-49B3-90C3-45498BFF2317}|LEZ03_04_EREDITARIETA\\LEZ03_04_EREDITARIETA.csproj|solutionrelative:lez03_04_ereditarieta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Docente.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\LEZ03_04_EREDITARIETA\\LEZ03_04_EREDITARIETA\\classes\\Docente.cs",
+              "RelativeDocumentMoniker": "LEZ03_04_EREDITARIETA\\classes\\Docente.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\LEZ03_04_EREDITARIETA\\LEZ03_04_EREDITARIETA\\classes\\Docente.cs*",
+              "RelativeToolTip": "LEZ03_04_EREDITARIETA\\classes\\Docente.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:06:26.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Studente.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\LEZ03_04_EREDITARIETA\\LEZ03_04_EREDITARIETA\\classes\\Studente.cs",
+              "RelativeDocumentMoniker": "LEZ03_04_EREDITARIETA\\classes\\Studente.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\LEZ03_04_EREDITARIETA\\LEZ03_04_EREDITARIETA\\classes\\Studente.cs*",
+              "RelativeToolTip": "LEZ03_04_EREDITARIETA\\classes\\Studente.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:57:21.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\LEZ03_04_EREDITARIETA\\LEZ03_04_EREDITARIETA\\classes\\Persona.cs",
+              "RelativeDocumentMoniker": "LEZ03_04_EREDITARIETA\\classes\\Persona.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\LEZ03_04_EREDITARIETA\\LEZ03_04_EREDITARIETA\\classes\\Persona.cs*",
+              "RelativeToolTip": "LEZ03_04_EREDITARIETA\\classes\\Persona.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:53:20.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\LEZ03_04_EREDITARIETA\\LEZ03_04_EREDITARIETA\\Program.cs",
+              "RelativeDocumentMoniker": "LEZ03_04_EREDITARIETA\\Program.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\LEZ03_04_EREDITARIETA\\LEZ03_04_EREDITARIETA\\Program.cs",
+              "RelativeToolTip": "LEZ03_04_EREDITARIETA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:52:03.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

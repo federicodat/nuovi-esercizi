@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\federico.dattilo\\source\\repos\\lez03_02_properties\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{537999EA-8E18-45BA-93E0-CEDF2F122AFF}|lez03_02_properties\\lez03_02_properties.csproj|c:\\users\\federico.dattilo\\source\\repos\\lez03_02_properties\\lez03_02_properties\\classis\\bottiglia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537999EA-8E18-45BA-93E0-CEDF2F122AFF}|lez03_02_properties\\lez03_02_properties.csproj|solutionrelative:lez03_02_properties\\classis\\bottiglia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537999EA-8E18-45BA-93E0-CEDF2F122AFF}|lez03_02_properties\\lez03_02_properties.csproj|c:\\users\\federico.dattilo\\source\\repos\\lez03_02_properties\\lez03_02_properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537999EA-8E18-45BA-93E0-CEDF2F122AFF}|lez03_02_properties\\lez03_02_properties.csproj|solutionrelative:lez03_02_properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bottiglia.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\lez03_02_properties\\lez03_02_properties\\classis\\Bottiglia.cs",
+              "RelativeDocumentMoniker": "lez03_02_properties\\classis\\Bottiglia.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\lez03_02_properties\\lez03_02_properties\\classis\\Bottiglia.cs",
+              "RelativeToolTip": "lez03_02_properties\\classis\\Bottiglia.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:51:19.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\lez03_02_properties\\lez03_02_properties\\Program.cs",
+              "RelativeDocumentMoniker": "lez03_02_properties\\Program.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\lez03_02_properties\\lez03_02_properties\\Program.cs",
+              "RelativeToolTip": "lez03_02_properties\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:50:17.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

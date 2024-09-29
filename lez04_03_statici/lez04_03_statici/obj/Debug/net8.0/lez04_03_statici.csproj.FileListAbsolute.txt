@@ -1,0 +1,14 @@
+C:\Users\federico.dattilo\source\repos\lez04_03_statici\lez04_03_statici\bin\Debug\net8.0\lez04_03_statici.exe
+C:\Users\federico.dattilo\source\repos\lez04_03_statici\lez04_03_statici\bin\Debug\net8.0\lez04_03_statici.deps.json
+C:\Users\federico.dattilo\source\repos\lez04_03_statici\lez04_03_statici\bin\Debug\net8.0\lez04_03_statici.runtimeconfig.json
+C:\Users\federico.dattilo\source\repos\lez04_03_statici\lez04_03_statici\bin\Debug\net8.0\lez04_03_statici.dll
+C:\Users\federico.dattilo\source\repos\lez04_03_statici\lez04_03_statici\bin\Debug\net8.0\lez04_03_statici.pdb
+C:\Users\federico.dattilo\source\repos\lez04_03_statici\lez04_03_statici\obj\Debug\net8.0\lez04_03_statici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.dattilo\source\repos\lez04_03_statici\lez04_03_statici\obj\Debug\net8.0\lez04_03_statici.AssemblyInfoInputs.cache
+C:\Users\federico.dattilo\source\repos\lez04_03_statici\lez04_03_statici\obj\Debug\net8.0\lez04_03_statici.AssemblyInfo.cs
+C:\Users\federico.dattilo\source\repos\lez04_03_statici\lez04_03_statici\obj\Debug\net8.0\lez04_03_statici.csproj.CoreCompileInputs.cache
+C:\Users\federico.dattilo\source\repos\lez04_03_statici\lez04_03_statici\obj\Debug\net8.0\lez04_03_statici.dll
+C:\Users\federico.dattilo\source\repos\lez04_03_statici\lez04_03_statici\obj\Debug\net8.0\refint\lez04_03_statici.dll
+C:\Users\federico.dattilo\source\repos\lez04_03_statici\lez04_03_statici\obj\Debug\net8.0\lez04_03_statici.pdb
+C:\Users\federico.dattilo\source\repos\lez04_03_statici\lez04_03_statici\obj\Debug\net8.0\lez04_03_statici.genruntimeconfig.cache
+C:\Users\federico.dattilo\source\repos\lez04_03_statici\lez04_03_statici\obj\Debug\net8.0\ref\lez04_03_statici.dll

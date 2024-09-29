@@ -1,0 +1,14 @@
+C:\Users\federico.dattilo\source\repos\lez02_03_contenitori_dinamici\lez02_03_contenitori_dinamici\obj\Debug\net8.0\lez02_03_contenitori_dinamici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.dattilo\source\repos\lez02_03_contenitori_dinamici\lez02_03_contenitori_dinamici\obj\Debug\net8.0\lez02_03_contenitori_dinamici.AssemblyInfoInputs.cache
+C:\Users\federico.dattilo\source\repos\lez02_03_contenitori_dinamici\lez02_03_contenitori_dinamici\obj\Debug\net8.0\lez02_03_contenitori_dinamici.AssemblyInfo.cs
+C:\Users\federico.dattilo\source\repos\lez02_03_contenitori_dinamici\lez02_03_contenitori_dinamici\obj\Debug\net8.0\lez02_03_contenitori_dinamici.csproj.CoreCompileInputs.cache
+C:\Users\federico.dattilo\source\repos\lez02_03_contenitori_dinamici\lez02_03_contenitori_dinamici\bin\Debug\net8.0\lez02_03_contenitori_dinamici.exe
+C:\Users\federico.dattilo\source\repos\lez02_03_contenitori_dinamici\lez02_03_contenitori_dinamici\bin\Debug\net8.0\lez02_03_contenitori_dinamici.deps.json
+C:\Users\federico.dattilo\source\repos\lez02_03_contenitori_dinamici\lez02_03_contenitori_dinamici\bin\Debug\net8.0\lez02_03_contenitori_dinamici.runtimeconfig.json
+C:\Users\federico.dattilo\source\repos\lez02_03_contenitori_dinamici\lez02_03_contenitori_dinamici\bin\Debug\net8.0\lez02_03_contenitori_dinamici.dll
+C:\Users\federico.dattilo\source\repos\lez02_03_contenitori_dinamici\lez02_03_contenitori_dinamici\bin\Debug\net8.0\lez02_03_contenitori_dinamici.pdb
+C:\Users\federico.dattilo\source\repos\lez02_03_contenitori_dinamici\lez02_03_contenitori_dinamici\obj\Debug\net8.0\lez02_03_contenitori_dinamici.dll
+C:\Users\federico.dattilo\source\repos\lez02_03_contenitori_dinamici\lez02_03_contenitori_dinamici\obj\Debug\net8.0\refint\lez02_03_contenitori_dinamici.dll
+C:\Users\federico.dattilo\source\repos\lez02_03_contenitori_dinamici\lez02_03_contenitori_dinamici\obj\Debug\net8.0\lez02_03_contenitori_dinamici.pdb
+C:\Users\federico.dattilo\source\repos\lez02_03_contenitori_dinamici\lez02_03_contenitori_dinamici\obj\Debug\net8.0\lez02_03_contenitori_dinamici.genruntimeconfig.cache
+C:\Users\federico.dattilo\source\repos\lez02_03_contenitori_dinamici\lez02_03_contenitori_dinamici\obj\Debug\net8.0\ref\lez02_03_contenitori_dinamici.dll

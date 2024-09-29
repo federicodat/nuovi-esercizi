@@ -1,0 +1,14 @@
+C:\Users\federico.dattilo\source\repos\lez03_01_recapclassi\lez03_01_recapclassi\obj\Debug\net8.0\lez03_01_recapclassi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.dattilo\source\repos\lez03_01_recapclassi\lez03_01_recapclassi\obj\Debug\net8.0\lez03_01_recapclassi.AssemblyInfoInputs.cache
+C:\Users\federico.dattilo\source\repos\lez03_01_recapclassi\lez03_01_recapclassi\obj\Debug\net8.0\lez03_01_recapclassi.AssemblyInfo.cs
+C:\Users\federico.dattilo\source\repos\lez03_01_recapclassi\lez03_01_recapclassi\obj\Debug\net8.0\lez03_01_recapclassi.csproj.CoreCompileInputs.cache
+C:\Users\federico.dattilo\source\repos\lez03_01_recapclassi\lez03_01_recapclassi\bin\Debug\net8.0\lez03_01_recapclassi.exe
+C:\Users\federico.dattilo\source\repos\lez03_01_recapclassi\lez03_01_recapclassi\bin\Debug\net8.0\lez03_01_recapclassi.deps.json
+C:\Users\federico.dattilo\source\repos\lez03_01_recapclassi\lez03_01_recapclassi\bin\Debug\net8.0\lez03_01_recapclassi.runtimeconfig.json
+C:\Users\federico.dattilo\source\repos\lez03_01_recapclassi\lez03_01_recapclassi\bin\Debug\net8.0\lez03_01_recapclassi.dll
+C:\Users\federico.dattilo\source\repos\lez03_01_recapclassi\lez03_01_recapclassi\bin\Debug\net8.0\lez03_01_recapclassi.pdb
+C:\Users\federico.dattilo\source\repos\lez03_01_recapclassi\lez03_01_recapclassi\obj\Debug\net8.0\lez03_01_recapclassi.dll
+C:\Users\federico.dattilo\source\repos\lez03_01_recapclassi\lez03_01_recapclassi\obj\Debug\net8.0\refint\lez03_01_recapclassi.dll
+C:\Users\federico.dattilo\source\repos\lez03_01_recapclassi\lez03_01_recapclassi\obj\Debug\net8.0\lez03_01_recapclassi.pdb
+C:\Users\federico.dattilo\source\repos\lez03_01_recapclassi\lez03_01_recapclassi\obj\Debug\net8.0\lez03_01_recapclassi.genruntimeconfig.cache
+C:\Users\federico.dattilo\source\repos\lez03_01_recapclassi\lez03_01_recapclassi\obj\Debug\net8.0\ref\lez03_01_recapclassi.dll

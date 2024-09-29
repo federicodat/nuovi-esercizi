@@ -1,0 +1,14 @@
+C:\Users\federico.dattilo\source\repos\lez03_02_properties\lez03_02_properties\bin\Debug\net8.0\lez03_02_properties.exe
+C:\Users\federico.dattilo\source\repos\lez03_02_properties\lez03_02_properties\bin\Debug\net8.0\lez03_02_properties.deps.json
+C:\Users\federico.dattilo\source\repos\lez03_02_properties\lez03_02_properties\bin\Debug\net8.0\lez03_02_properties.runtimeconfig.json
+C:\Users\federico.dattilo\source\repos\lez03_02_properties\lez03_02_properties\bin\Debug\net8.0\lez03_02_properties.dll
+C:\Users\federico.dattilo\source\repos\lez03_02_properties\lez03_02_properties\bin\Debug\net8.0\lez03_02_properties.pdb
+C:\Users\federico.dattilo\source\repos\lez03_02_properties\lez03_02_properties\obj\Debug\net8.0\lez03_02_properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.dattilo\source\repos\lez03_02_properties\lez03_02_properties\obj\Debug\net8.0\lez03_02_properties.AssemblyInfoInputs.cache
+C:\Users\federico.dattilo\source\repos\lez03_02_properties\lez03_02_properties\obj\Debug\net8.0\lez03_02_properties.AssemblyInfo.cs
+C:\Users\federico.dattilo\source\repos\lez03_02_properties\lez03_02_properties\obj\Debug\net8.0\lez03_02_properties.csproj.CoreCompileInputs.cache
+C:\Users\federico.dattilo\source\repos\lez03_02_properties\lez03_02_properties\obj\Debug\net8.0\lez03_02_properties.dll
+C:\Users\federico.dattilo\source\repos\lez03_02_properties\lez03_02_properties\obj\Debug\net8.0\refint\lez03_02_properties.dll
+C:\Users\federico.dattilo\source\repos\lez03_02_properties\lez03_02_properties\obj\Debug\net8.0\lez03_02_properties.pdb
+C:\Users\federico.dattilo\source\repos\lez03_02_properties\lez03_02_properties\obj\Debug\net8.0\lez03_02_properties.genruntimeconfig.cache
+C:\Users\federico.dattilo\source\repos\lez03_02_properties\lez03_02_properties\obj\Debug\net8.0\ref\lez03_02_properties.dll

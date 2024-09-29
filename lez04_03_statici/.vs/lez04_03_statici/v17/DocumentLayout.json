@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\federico.dattilo\\source\\repos\\lez04_03_statici\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5A0AA2-F1AA-4642-A43A-83C906363674}|lez04_03_statici\\lez04_03_statici.csproj|c:\\users\\federico.dattilo\\source\\repos\\lez04_03_statici\\lez04_03_statici\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C5A0AA2-F1AA-4642-A43A-83C906363674}|lez04_03_statici\\lez04_03_statici.csproj|solutionrelative:lez04_03_statici\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5A0AA2-F1AA-4642-A43A-83C906363674}|lez04_03_statici\\lez04_03_statici.csproj|c:\\users\\federico.dattilo\\source\\repos\\lez04_03_statici\\lez04_03_statici\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C5A0AA2-F1AA-4642-A43A-83C906363674}|lez04_03_statici\\lez04_03_statici.csproj|solutionrelative:lez04_03_statici\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Studente.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\lez04_03_statici\\lez04_03_statici\\classes\\Studente.cs",
+              "RelativeDocumentMoniker": "lez04_03_statici\\classes\\Studente.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\lez04_03_statici\\lez04_03_statici\\classes\\Studente.cs",
+              "RelativeToolTip": "lez04_03_statici\\classes\\Studente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:19:42.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\lez04_03_statici\\lez04_03_statici\\Program.cs",
+              "RelativeDocumentMoniker": "lez04_03_statici\\Program.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\lez04_03_statici\\lez04_03_statici\\Program.cs",
+              "RelativeToolTip": "lez04_03_statici\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:11:44.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

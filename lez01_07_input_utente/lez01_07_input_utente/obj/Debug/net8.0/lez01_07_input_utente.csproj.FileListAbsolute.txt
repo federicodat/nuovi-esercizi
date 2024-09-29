@@ -1,0 +1,14 @@
+C:\Users\federico.dattilo\source\repos\lez01_07_input_utente\lez01_07_input_utente\bin\Debug\net8.0\lez01_07_input_utente.exe
+C:\Users\federico.dattilo\source\repos\lez01_07_input_utente\lez01_07_input_utente\bin\Debug\net8.0\lez01_07_input_utente.deps.json
+C:\Users\federico.dattilo\source\repos\lez01_07_input_utente\lez01_07_input_utente\bin\Debug\net8.0\lez01_07_input_utente.runtimeconfig.json
+C:\Users\federico.dattilo\source\repos\lez01_07_input_utente\lez01_07_input_utente\bin\Debug\net8.0\lez01_07_input_utente.dll
+C:\Users\federico.dattilo\source\repos\lez01_07_input_utente\lez01_07_input_utente\bin\Debug\net8.0\lez01_07_input_utente.pdb
+C:\Users\federico.dattilo\source\repos\lez01_07_input_utente\lez01_07_input_utente\obj\Debug\net8.0\lez01_07_input_utente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.dattilo\source\repos\lez01_07_input_utente\lez01_07_input_utente\obj\Debug\net8.0\lez01_07_input_utente.AssemblyInfoInputs.cache
+C:\Users\federico.dattilo\source\repos\lez01_07_input_utente\lez01_07_input_utente\obj\Debug\net8.0\lez01_07_input_utente.AssemblyInfo.cs
+C:\Users\federico.dattilo\source\repos\lez01_07_input_utente\lez01_07_input_utente\obj\Debug\net8.0\lez01_07_input_utente.csproj.CoreCompileInputs.cache
+C:\Users\federico.dattilo\source\repos\lez01_07_input_utente\lez01_07_input_utente\obj\Debug\net8.0\lez01_07_input_utente.dll
+C:\Users\federico.dattilo\source\repos\lez01_07_input_utente\lez01_07_input_utente\obj\Debug\net8.0\refint\lez01_07_input_utente.dll
+C:\Users\federico.dattilo\source\repos\lez01_07_input_utente\lez01_07_input_utente\obj\Debug\net8.0\lez01_07_input_utente.pdb
+C:\Users\federico.dattilo\source\repos\lez01_07_input_utente\lez01_07_input_utente\obj\Debug\net8.0\lez01_07_input_utente.genruntimeconfig.cache
+C:\Users\federico.dattilo\source\repos\lez01_07_input_utente\lez01_07_input_utente\obj\Debug\net8.0\ref\lez01_07_input_utente.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Linw_lez01_filtrinumeri/1.0.0": {
+        "runtime": {
+          "Linw_lez01_filtrinumeri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Linw_lez01_filtrinumeri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

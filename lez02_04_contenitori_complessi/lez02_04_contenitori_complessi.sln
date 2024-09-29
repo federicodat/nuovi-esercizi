@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lez02_04_contenitori_complessi", "lez02_04_contenitori_complessi\lez02_04_contenitori_complessi.csproj", "{0AA8CEFA-120C-4990-94F4-9138B3FDF308}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AA8CEFA-120C-4990-94F4-9138B3FDF308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AA8CEFA-120C-4990-94F4-9138B3FDF308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AA8CEFA-120C-4990-94F4-9138B3FDF308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AA8CEFA-120C-4990-94F4-9138B3FDF308}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8DA0C7A-5DBF-4B01-B1BD-059644E1DC7A}
+	EndGlobalSection
+EndGlobal

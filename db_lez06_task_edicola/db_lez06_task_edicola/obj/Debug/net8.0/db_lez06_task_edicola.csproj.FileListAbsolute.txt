@@ -1,0 +1,14 @@
+C:\Users\federico.dattilo\source\repos\db_lez06_task_edicola\db_lez06_task_edicola\bin\Debug\net8.0\db_lez06_task_edicola.exe
+C:\Users\federico.dattilo\source\repos\db_lez06_task_edicola\db_lez06_task_edicola\bin\Debug\net8.0\db_lez06_task_edicola.deps.json
+C:\Users\federico.dattilo\source\repos\db_lez06_task_edicola\db_lez06_task_edicola\bin\Debug\net8.0\db_lez06_task_edicola.runtimeconfig.json
+C:\Users\federico.dattilo\source\repos\db_lez06_task_edicola\db_lez06_task_edicola\bin\Debug\net8.0\db_lez06_task_edicola.dll
+C:\Users\federico.dattilo\source\repos\db_lez06_task_edicola\db_lez06_task_edicola\bin\Debug\net8.0\db_lez06_task_edicola.pdb
+C:\Users\federico.dattilo\source\repos\db_lez06_task_edicola\db_lez06_task_edicola\obj\Debug\net8.0\db_lez06_task_edicola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.dattilo\source\repos\db_lez06_task_edicola\db_lez06_task_edicola\obj\Debug\net8.0\db_lez06_task_edicola.AssemblyInfoInputs.cache
+C:\Users\federico.dattilo\source\repos\db_lez06_task_edicola\db_lez06_task_edicola\obj\Debug\net8.0\db_lez06_task_edicola.AssemblyInfo.cs
+C:\Users\federico.dattilo\source\repos\db_lez06_task_edicola\db_lez06_task_edicola\obj\Debug\net8.0\db_lez06_task_edicola.csproj.CoreCompileInputs.cache
+C:\Users\federico.dattilo\source\repos\db_lez06_task_edicola\db_lez06_task_edicola\obj\Debug\net8.0\db_lez06_task_edicola.dll
+C:\Users\federico.dattilo\source\repos\db_lez06_task_edicola\db_lez06_task_edicola\obj\Debug\net8.0\refint\db_lez06_task_edicola.dll
+C:\Users\federico.dattilo\source\repos\db_lez06_task_edicola\db_lez06_task_edicola\obj\Debug\net8.0\db_lez06_task_edicola.pdb
+C:\Users\federico.dattilo\source\repos\db_lez06_task_edicola\db_lez06_task_edicola\obj\Debug\net8.0\db_lez06_task_edicola.genruntimeconfig.cache
+C:\Users\federico.dattilo\source\repos\db_lez06_task_edicola\db_lez06_task_edicola\obj\Debug\net8.0\ref\db_lez06_task_edicola.dll

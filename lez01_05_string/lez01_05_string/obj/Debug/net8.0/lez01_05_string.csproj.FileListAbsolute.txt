@@ -1,0 +1,14 @@
+C:\Users\federico.dattilo\source\repos\lez01_05_string\lez01_05_string\bin\Debug\net8.0\lez01_05_string.exe
+C:\Users\federico.dattilo\source\repos\lez01_05_string\lez01_05_string\bin\Debug\net8.0\lez01_05_string.deps.json
+C:\Users\federico.dattilo\source\repos\lez01_05_string\lez01_05_string\bin\Debug\net8.0\lez01_05_string.runtimeconfig.json
+C:\Users\federico.dattilo\source\repos\lez01_05_string\lez01_05_string\bin\Debug\net8.0\lez01_05_string.dll
+C:\Users\federico.dattilo\source\repos\lez01_05_string\lez01_05_string\bin\Debug\net8.0\lez01_05_string.pdb
+C:\Users\federico.dattilo\source\repos\lez01_05_string\lez01_05_string\obj\Debug\net8.0\lez01_05_string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.dattilo\source\repos\lez01_05_string\lez01_05_string\obj\Debug\net8.0\lez01_05_string.AssemblyInfoInputs.cache
+C:\Users\federico.dattilo\source\repos\lez01_05_string\lez01_05_string\obj\Debug\net8.0\lez01_05_string.AssemblyInfo.cs
+C:\Users\federico.dattilo\source\repos\lez01_05_string\lez01_05_string\obj\Debug\net8.0\lez01_05_string.csproj.CoreCompileInputs.cache
+C:\Users\federico.dattilo\source\repos\lez01_05_string\lez01_05_string\obj\Debug\net8.0\lez01_05_string.dll
+C:\Users\federico.dattilo\source\repos\lez01_05_string\lez01_05_string\obj\Debug\net8.0\refint\lez01_05_string.dll
+C:\Users\federico.dattilo\source\repos\lez01_05_string\lez01_05_string\obj\Debug\net8.0\lez01_05_string.pdb
+C:\Users\federico.dattilo\source\repos\lez01_05_string\lez01_05_string\obj\Debug\net8.0\lez01_05_string.genruntimeconfig.cache
+C:\Users\federico.dattilo\source\repos\lez01_05_string\lez01_05_string\obj\Debug\net8.0\ref\lez01_05_string.dll

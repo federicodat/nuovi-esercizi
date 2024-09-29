@@ -1,0 +1,14 @@
+C:\Users\federico.dattilo\source\repos\lez01_03_variabili\lez01_03_variabili\obj\Debug\net8.0\lez01_03_variabili.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.dattilo\source\repos\lez01_03_variabili\lez01_03_variabili\obj\Debug\net8.0\lez01_03_variabili.AssemblyInfoInputs.cache
+C:\Users\federico.dattilo\source\repos\lez01_03_variabili\lez01_03_variabili\obj\Debug\net8.0\lez01_03_variabili.AssemblyInfo.cs
+C:\Users\federico.dattilo\source\repos\lez01_03_variabili\lez01_03_variabili\obj\Debug\net8.0\lez01_03_variabili.csproj.CoreCompileInputs.cache
+C:\Users\federico.dattilo\source\repos\lez01_03_variabili\lez01_03_variabili\bin\Debug\net8.0\lez01_03_variabili.exe
+C:\Users\federico.dattilo\source\repos\lez01_03_variabili\lez01_03_variabili\bin\Debug\net8.0\lez01_03_variabili.deps.json
+C:\Users\federico.dattilo\source\repos\lez01_03_variabili\lez01_03_variabili\bin\Debug\net8.0\lez01_03_variabili.runtimeconfig.json
+C:\Users\federico.dattilo\source\repos\lez01_03_variabili\lez01_03_variabili\bin\Debug\net8.0\lez01_03_variabili.dll
+C:\Users\federico.dattilo\source\repos\lez01_03_variabili\lez01_03_variabili\bin\Debug\net8.0\lez01_03_variabili.pdb
+C:\Users\federico.dattilo\source\repos\lez01_03_variabili\lez01_03_variabili\obj\Debug\net8.0\lez01_03_variabili.dll
+C:\Users\federico.dattilo\source\repos\lez01_03_variabili\lez01_03_variabili\obj\Debug\net8.0\refint\lez01_03_variabili.dll
+C:\Users\federico.dattilo\source\repos\lez01_03_variabili\lez01_03_variabili\obj\Debug\net8.0\lez01_03_variabili.pdb
+C:\Users\federico.dattilo\source\repos\lez01_03_variabili\lez01_03_variabili\obj\Debug\net8.0\lez01_03_variabili.genruntimeconfig.cache
+C:\Users\federico.dattilo\source\repos\lez01_03_variabili\lez01_03_variabili\obj\Debug\net8.0\ref\lez01_03_variabili.dll

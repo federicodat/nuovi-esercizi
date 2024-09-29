@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "lez02_05_classi_e_oggetti/1.0.0": {
+        "runtime": {
+          "lez02_05_classi_e_oggetti.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lez02_05_classi_e_oggetti/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

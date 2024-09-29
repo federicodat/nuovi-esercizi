@@ -1,0 +1,14 @@
+C:\Users\federico.dattilo\source\repos\Lez00_introduzione\Lez00_introduzione\bin\Debug\net8.0\Lez00_introduzione.exe
+C:\Users\federico.dattilo\source\repos\Lez00_introduzione\Lez00_introduzione\bin\Debug\net8.0\Lez00_introduzione.deps.json
+C:\Users\federico.dattilo\source\repos\Lez00_introduzione\Lez00_introduzione\bin\Debug\net8.0\Lez00_introduzione.runtimeconfig.json
+C:\Users\federico.dattilo\source\repos\Lez00_introduzione\Lez00_introduzione\bin\Debug\net8.0\Lez00_introduzione.dll
+C:\Users\federico.dattilo\source\repos\Lez00_introduzione\Lez00_introduzione\bin\Debug\net8.0\Lez00_introduzione.pdb
+C:\Users\federico.dattilo\source\repos\Lez00_introduzione\Lez00_introduzione\obj\Debug\net8.0\Lez00_introduzione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.dattilo\source\repos\Lez00_introduzione\Lez00_introduzione\obj\Debug\net8.0\Lez00_introduzione.AssemblyInfoInputs.cache
+C:\Users\federico.dattilo\source\repos\Lez00_introduzione\Lez00_introduzione\obj\Debug\net8.0\Lez00_introduzione.AssemblyInfo.cs
+C:\Users\federico.dattilo\source\repos\Lez00_introduzione\Lez00_introduzione\obj\Debug\net8.0\Lez00_introduzione.csproj.CoreCompileInputs.cache
+C:\Users\federico.dattilo\source\repos\Lez00_introduzione\Lez00_introduzione\obj\Debug\net8.0\Lez00_introduzione.dll
+C:\Users\federico.dattilo\source\repos\Lez00_introduzione\Lez00_introduzione\obj\Debug\net8.0\refint\Lez00_introduzione.dll
+C:\Users\federico.dattilo\source\repos\Lez00_introduzione\Lez00_introduzione\obj\Debug\net8.0\Lez00_introduzione.pdb
+C:\Users\federico.dattilo\source\repos\Lez00_introduzione\Lez00_introduzione\obj\Debug\net8.0\Lez00_introduzione.genruntimeconfig.cache
+C:\Users\federico.dattilo\source\repos\Lez00_introduzione\Lez00_introduzione\obj\Debug\net8.0\ref\Lez00_introduzione.dll
