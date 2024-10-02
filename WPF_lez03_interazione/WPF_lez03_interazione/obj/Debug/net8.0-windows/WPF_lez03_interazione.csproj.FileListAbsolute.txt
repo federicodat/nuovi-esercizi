@@ -1,0 +1,4 @@
+C:\Users\federico.dattilo\source\repos\WPF_lez03_interazione\WPF_lez03_interazione\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\federico.dattilo\source\repos\WPF_lez03_interazione\WPF_lez03_interazione\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\federico.dattilo\source\repos\WPF_lez03_interazione\WPF_lez03_interazione\obj\Debug\net8.0-windows\WPF_lez03_interazione_MarkupCompile.cache
+C:\Users\federico.dattilo\source\repos\WPF_lez03_interazione\WPF_lez03_interazione\obj\Debug\net8.0-windows\WPF_lez03_interazione_MarkupCompile.lref

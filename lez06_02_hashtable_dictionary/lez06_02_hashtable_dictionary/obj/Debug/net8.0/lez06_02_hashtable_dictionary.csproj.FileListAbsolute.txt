@@ -1,0 +1,15 @@
+C:\Users\federico.dattilo\source\repos\lez06_02_hashtable_dictionary\lez06_02_hashtable_dictionary\bin\Debug\net8.0\lez06_02_hashtable_dictionary.exe
+C:\Users\federico.dattilo\source\repos\lez06_02_hashtable_dictionary\lez06_02_hashtable_dictionary\bin\Debug\net8.0\lez06_02_hashtable_dictionary.deps.json
+C:\Users\federico.dattilo\source\repos\lez06_02_hashtable_dictionary\lez06_02_hashtable_dictionary\bin\Debug\net8.0\lez06_02_hashtable_dictionary.runtimeconfig.json
+C:\Users\federico.dattilo\source\repos\lez06_02_hashtable_dictionary\lez06_02_hashtable_dictionary\bin\Debug\net8.0\lez06_02_hashtable_dictionary.dll
+C:\Users\federico.dattilo\source\repos\lez06_02_hashtable_dictionary\lez06_02_hashtable_dictionary\bin\Debug\net8.0\lez06_02_hashtable_dictionary.pdb
+C:\Users\federico.dattilo\source\repos\lez06_02_hashtable_dictionary\lez06_02_hashtable_dictionary\obj\Debug\net8.0\lez06_02_hashtable_dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.dattilo\source\repos\lez06_02_hashtable_dictionary\lez06_02_hashtable_dictionary\obj\Debug\net8.0\lez06_02_hashtable_dictionary.AssemblyInfoInputs.cache
+C:\Users\federico.dattilo\source\repos\lez06_02_hashtable_dictionary\lez06_02_hashtable_dictionary\obj\Debug\net8.0\lez06_02_hashtable_dictionary.AssemblyInfo.cs
+C:\Users\federico.dattilo\source\repos\lez06_02_hashtable_dictionary\lez06_02_hashtable_dictionary\obj\Debug\net8.0\lez06_02_hashtable_dictionary.csproj.CoreCompileInputs.cache
+C:\Users\federico.dattilo\source\repos\lez06_02_hashtable_dictionary\lez06_02_hashtable_dictionary\obj\Debug\net8.0\lez06_02_hashtable_dictionary.sourcelink.json
+C:\Users\federico.dattilo\source\repos\lez06_02_hashtable_dictionary\lez06_02_hashtable_dictionary\obj\Debug\net8.0\lez06_02_hashtable_dictionary.dll
+C:\Users\federico.dattilo\source\repos\lez06_02_hashtable_dictionary\lez06_02_hashtable_dictionary\obj\Debug\net8.0\refint\lez06_02_hashtable_dictionary.dll
+C:\Users\federico.dattilo\source\repos\lez06_02_hashtable_dictionary\lez06_02_hashtable_dictionary\obj\Debug\net8.0\lez06_02_hashtable_dictionary.pdb
+C:\Users\federico.dattilo\source\repos\lez06_02_hashtable_dictionary\lez06_02_hashtable_dictionary\obj\Debug\net8.0\lez06_02_hashtable_dictionary.genruntimeconfig.cache
+C:\Users\federico.dattilo\source\repos\lez06_02_hashtable_dictionary\lez06_02_hashtable_dictionary\obj\Debug\net8.0\ref\lez06_02_hashtable_dictionary.dll

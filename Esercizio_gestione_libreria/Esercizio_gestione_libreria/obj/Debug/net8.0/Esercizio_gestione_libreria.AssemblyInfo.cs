@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Esercizio_gestione_libreria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a937a99f8d637ab8c36453e7fd4e447af0657e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Esercizio_gestione_libreria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Esercizio_gestione_libreria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

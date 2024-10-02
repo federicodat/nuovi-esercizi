@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "lez06_02_hashtable_dictionary/1.0.0": {
+        "runtime": {
+          "lez06_02_hashtable_dictionary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lez06_02_hashtable_dictionary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

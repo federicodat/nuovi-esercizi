@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_lez03_interazione", "WPF_lez03_interazione\WPF_lez03_interazione.csproj", "{519ECF4E-B610-47AC-996C-68B753D448E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{519ECF4E-B610-47AC-996C-68B753D448E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{519ECF4E-B610-47AC-996C-68B753D448E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{519ECF4E-B610-47AC-996C-68B753D448E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{519ECF4E-B610-47AC-996C-68B753D448E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE89544A-7438-4A4E-B68B-7A8FB4B3516B}
+	EndGlobalSection
+EndGlobal

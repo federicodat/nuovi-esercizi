@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\federico.dattilo\\source\\repos\\db_lez10_migrazione\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{597D5F38-2857-4118-A816-69CDA08EBD64}|db_lez10_migrazione\\db_lez10_migrazione.csproj|c:\\users\\federico.dattilo\\source\\repos\\db_lez10_migrazione\\db_lez10_migrazione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597D5F38-2857-4118-A816-69CDA08EBD64}|db_lez10_migrazione\\db_lez10_migrazione.csproj|solutionrelative:db_lez10_migrazione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\db_lez10_migrazione\\db_lez10_migrazione\\Program.cs",
+              "RelativeDocumentMoniker": "db_lez10_migrazione\\Program.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\db_lez10_migrazione\\db_lez10_migrazione\\Program.cs",
+              "RelativeToolTip": "db_lez10_migrazione\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:51:06.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
