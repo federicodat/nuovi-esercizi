@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\rest_05_ef_videoteca_ref.props" />
+</Project>

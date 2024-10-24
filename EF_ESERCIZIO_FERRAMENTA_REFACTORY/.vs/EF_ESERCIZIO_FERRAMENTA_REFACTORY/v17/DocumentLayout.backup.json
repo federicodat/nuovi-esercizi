@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|c:\\users\\federico.dattilo\\source\\repos\\ef_esercizio_ferramenta_refactory\\ef_esercizio_ferramenta_refactory\\controllers\\repartocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|solutionrelative:ef_esercizio_ferramenta_refactory\\controllers\\repartocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|c:\\users\\federico.dattilo\\source\\repos\\ef_esercizio_ferramenta_refactory\\ef_esercizio_ferramenta_refactory\\services\\repartoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|solutionrelative:ef_esercizio_ferramenta_refactory\\services\\repartoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|c:\\users\\federico.dattilo\\source\\repos\\ef_esercizio_ferramenta_refactory\\ef_esercizio_ferramenta_refactory\\services\\prodottoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|solutionrelative:ef_esercizio_ferramenta_refactory\\services\\prodottoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|c:\\users\\federico.dattilo\\source\\repos\\ef_esercizio_ferramenta_refactory\\ef_esercizio_ferramenta_refactory\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|solutionrelative:ef_esercizio_ferramenta_refactory\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|c:\\users\\federico.dattilo\\source\\repos\\ef_esercizio_ferramenta_refactory\\ef_esercizio_ferramenta_refactory\\repository\\prodottorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|solutionrelative:ef_esercizio_ferramenta_refactory\\repository\\prodottorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|c:\\users\\federico.dattilo\\source\\repos\\ef_esercizio_ferramenta_refactory\\ef_esercizio_ferramenta_refactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|solutionrelative:ef_esercizio_ferramenta_refactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|c:\\users\\federico.dattilo\\source\\repos\\ef_esercizio_ferramenta_refactory\\ef_esercizio_ferramenta_refactory\\repository\\repartorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|solutionrelative:ef_esercizio_ferramenta_refactory\\repository\\repartorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|c:\\users\\federico.dattilo\\source\\repos\\ef_esercizio_ferramenta_refactory\\ef_esercizio_ferramenta_refactory\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|solutionrelative:ef_esercizio_ferramenta_refactory\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|c:\\users\\federico.dattilo\\source\\repos\\ef_esercizio_ferramenta_refactory\\ef_esercizio_ferramenta_refactory\\repository\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|solutionrelative:ef_esercizio_ferramenta_refactory\\repository\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|c:\\users\\federico.dattilo\\source\\repos\\ef_esercizio_ferramenta_refactory\\ef_esercizio_ferramenta_refactory\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|solutionrelative:ef_esercizio_ferramenta_refactory\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|c:\\users\\federico.dattilo\\source\\repos\\ef_esercizio_ferramenta_refactory\\ef_esercizio_ferramenta_refactory\\models\\brugoliamocontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|solutionrelative:ef_esercizio_ferramenta_refactory\\models\\brugoliamocontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|c:\\users\\federico.dattilo\\source\\repos\\ef_esercizio_ferramenta_refactory\\ef_esercizio_ferramenta_refactory\\models\\prodottodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|solutionrelative:ef_esercizio_ferramenta_refactory\\models\\prodottodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|c:\\users\\federico.dattilo\\source\\repos\\ef_esercizio_ferramenta_refactory\\ef_esercizio_ferramenta_refactory\\models\\reparto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|solutionrelative:ef_esercizio_ferramenta_refactory\\models\\reparto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|c:\\users\\federico.dattilo\\source\\repos\\ef_esercizio_ferramenta_refactory\\ef_esercizio_ferramenta_refactory\\models\\repartodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|solutionrelative:ef_esercizio_ferramenta_refactory\\models\\repartodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|c:\\users\\federico.dattilo\\source\\repos\\ef_esercizio_ferramenta_refactory\\ef_esercizio_ferramenta_refactory\\ef_esercizio_ferramenta_refactory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|solutionrelative:ef_esercizio_ferramenta_refactory\\ef_esercizio_ferramenta_refactory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdottoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Repository\\ProdottoRepo.cs",
+              "RelativeDocumentMoniker": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Repository\\ProdottoRepo.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Repository\\ProdottoRepo.cs",
+              "RelativeToolTip": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Repository\\ProdottoRepo.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAIwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:27:18.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdottoController.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Controllers\\ProdottoController.cs",
+              "RelativeDocumentMoniker": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Controllers\\ProdottoController.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Controllers\\ProdottoController.cs",
+              "RelativeToolTip": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Controllers\\ProdottoController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:08:50.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdottoService.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Services\\ProdottoService.cs",
+              "RelativeDocumentMoniker": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Services\\ProdottoService.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Services\\ProdottoService.cs",
+              "RelativeToolTip": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Services\\ProdottoService.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowE8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:30:32.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Models\\Prodotto.cs",
+              "RelativeDocumentMoniker": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Models\\Prodotto.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Models\\Prodotto.cs",
+              "RelativeToolTip": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Models\\Prodotto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAzwBAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:10:01.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepartoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Repository\\RepartoRepo.cs",
+              "RelativeDocumentMoniker": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Repository\\RepartoRepo.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Repository\\RepartoRepo.cs",
+              "RelativeToolTip": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Repository\\RepartoRepo.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAkwDYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:25:49.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Program.cs",
+              "RelativeDocumentMoniker": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Program.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Program.cs",
+              "RelativeToolTip": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwC0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:59:57.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepartoService.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Services\\RepartoService.cs",
+              "RelativeDocumentMoniker": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Services\\RepartoService.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Services\\RepartoService.cs",
+              "RelativeToolTip": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Services\\RepartoService.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwFUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:29:32.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepartoController.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Controllers\\RepartoController.cs",
+              "RelativeDocumentMoniker": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Controllers\\RepartoController.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Controllers\\RepartoController.cs",
+              "RelativeToolTip": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Controllers\\RepartoController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:32:23.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Repository\\IRepo.cs",
+              "RelativeDocumentMoniker": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Repository\\IRepo.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Repository\\IRepo.cs",
+              "RelativeToolTip": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Repository\\IRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:24:09.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BrugoliamoContex.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Models\\BrugoliamoContex.cs",
+              "RelativeDocumentMoniker": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Models\\BrugoliamoContex.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Models\\BrugoliamoContex.cs",
+              "RelativeToolTip": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Models\\BrugoliamoContex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:04:44.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Services\\IService.cs",
+              "RelativeDocumentMoniker": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Services\\IService.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Services\\IService.cs",
+              "RelativeToolTip": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Services\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:28:44.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProdottoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Models\\ProdottoDTO.cs",
+              "RelativeDocumentMoniker": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Models\\ProdottoDTO.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Models\\ProdottoDTO.cs",
+              "RelativeToolTip": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Models\\ProdottoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:19:35.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Reparto.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Models\\Reparto.cs",
+              "RelativeDocumentMoniker": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Models\\Reparto.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Models\\Reparto.cs",
+              "RelativeToolTip": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Models\\Reparto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:06:40.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RepartoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Models\\RepartoDTO.cs",
+              "RelativeDocumentMoniker": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Models\\RepartoDTO.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Models\\RepartoDTO.cs",
+              "RelativeToolTip": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Models\\RepartoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:18:31.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj",
+              "RelativeDocumentMoniker": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj",
+              "RelativeToolTip": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T15:03:20.293Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "rest_05_ef_videoteca_ref.Controllers.VideotecaController",
+    "Method": "CercaPerCodice",
+    "RelativePath": "api/videoteche/{varCodice}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "rest_05_ef_videoteca_ref.Models.VideotecaDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

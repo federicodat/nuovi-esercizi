@@ -1,0 +1,25 @@
+﻿@model asp_web_01_introduzione.Models.Persona
+
+@{
+    string frase = $"{ViewBag.Saluta}  e ho {ViewBag.Numero}  anni  ";
+}
+<h1>  @ViewBag.Titolo</h1>
+<h3>  @ViewBag.Sottotitolo</h3>
+<p>@frase</p>
+
+<hr />
+<ul>
+
+    
+        <li> Nominativo</li>
+    <li> CodFis</li>
+      
+       
+</ul>
+
+<script>
+    function dimmiciao() { 
+        alert("ppppppp");
+}
+</script>
+<button type ="button" onclick="dimmiciao()">cliccami</button>

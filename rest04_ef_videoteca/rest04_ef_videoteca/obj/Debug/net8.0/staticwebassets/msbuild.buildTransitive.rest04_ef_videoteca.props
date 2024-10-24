@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\rest04_ef_videoteca.props" />
+</Project>

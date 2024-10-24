@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\REST_EF_O6_Migrazioni.props" />
+</Project>

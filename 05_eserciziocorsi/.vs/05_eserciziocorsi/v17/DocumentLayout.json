@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|c:\\users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\repos\\corsorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|solutionrelative:05_eserciziocorsi\\repos\\corsorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|c:\\users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\services\\corsoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|solutionrelative:05_eserciziocorsi\\services\\corsoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|c:\\users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\views\\corso\\inserisci.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|solutionrelative:05_eserciziocorsi\\views\\corso\\inserisci.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|c:\\users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\services\\corsoapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|solutionrelative:05_eserciziocorsi\\services\\corsoapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|c:\\users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|solutionrelative:05_eserciziocorsi\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|c:\\users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\models\\corso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|solutionrelative:05_eserciziocorsi\\models\\corso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|c:\\users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\models\\corsodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|solutionrelative:05_eserciziocorsi\\models\\corsodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|c:\\users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\contex\\poloformativocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|solutionrelative:05_eserciziocorsi\\contex\\poloformativocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|c:\\users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\views\\corso\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|solutionrelative:05_eserciziocorsi\\views\\corso\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|c:\\users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\views\\error\\generic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|solutionrelative:05_eserciziocorsi\\views\\error\\generic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|c:\\users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|solutionrelative:05_eserciziocorsi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|c:\\users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|solutionrelative:05_eserciziocorsi\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|c:\\users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\services\\iservicescrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|solutionrelative:05_eserciziocorsi\\services\\iservicescrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|c:\\users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\services\\iservicelettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|solutionrelative:05_eserciziocorsi\\services\\iservicelettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|c:\\users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\controllers\\corsocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|solutionrelative:05_eserciziocorsi\\controllers\\corsocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|c:\\users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\controllers\\corsoapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|solutionrelative:05_eserciziocorsi\\controllers\\corsoapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|c:\\users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|solutionrelative:05_eserciziocorsi\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|c:\\users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|solutionrelative:05_eserciziocorsi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|c:\\users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\models\\admindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|solutionrelative:05_eserciziocorsi\\models\\admindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|c:\\users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\repos\\adminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|solutionrelative:05_eserciziocorsi\\repos\\adminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|c:\\users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|solutionrelative:05_eserciziocorsi\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|c:\\users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|solutionrelative:05_eserciziocorsi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|c:\\users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|solutionrelative:05_eserciziocorsi\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|c:\\users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\05_eserciziocorsi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{119C2170-0B0D-433C-8E65-6FF3FC5B0FD3}|05_eserciziocorsi\\05_eserciziocorsi.csproj|solutionrelative:05_eserciziocorsi\\05_eserciziocorsi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Lista.cshtml",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Views\\Corso\\Lista.cshtml",
+              "RelativeDocumentMoniker": "05_eserciziocorsi\\Views\\Corso\\Lista.cshtml",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Views\\Corso\\Lista.cshtml",
+              "RelativeToolTip": "05_eserciziocorsi\\Views\\Corso\\Lista.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T09:56:13.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PoloFormativoContext.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Contex\\PoloFormativoContext.cs",
+              "RelativeDocumentMoniker": "05_eserciziocorsi\\Contex\\PoloFormativoContext.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Contex\\PoloFormativoContext.cs",
+              "RelativeToolTip": "05_eserciziocorsi\\Contex\\PoloFormativoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:10:47.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CorsoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Models\\CorsoDTO.cs",
+              "RelativeDocumentMoniker": "05_eserciziocorsi\\Models\\CorsoDTO.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Models\\CorsoDTO.cs",
+              "RelativeToolTip": "05_eserciziocorsi\\Models\\CorsoDTO.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:15:19.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Corso.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Models\\Corso.cs",
+              "RelativeDocumentMoniker": "05_eserciziocorsi\\Models\\Corso.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Models\\Corso.cs",
+              "RelativeToolTip": "05_eserciziocorsi\\Models\\Corso.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:18:54.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "05_eserciziocorsi\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Models\\Admin.cs",
+              "RelativeToolTip": "05_eserciziocorsi\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:11:26.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CorsoApiService.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Services\\CorsoApiService.cs",
+              "RelativeDocumentMoniker": "05_eserciziocorsi\\Services\\CorsoApiService.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Services\\CorsoApiService.cs",
+              "RelativeToolTip": "05_eserciziocorsi\\Services\\CorsoApiService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:50:17.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inserisci.cshtml",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Views\\Corso\\Inserisci.cshtml",
+              "RelativeDocumentMoniker": "05_eserciziocorsi\\Views\\Corso\\Inserisci.cshtml",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Views\\Corso\\Inserisci.cshtml",
+              "RelativeToolTip": "05_eserciziocorsi\\Views\\Corso\\Inserisci.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T12:14:06.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CorsoService.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Services\\CorsoService.cs",
+              "RelativeDocumentMoniker": "05_eserciziocorsi\\Services\\CorsoService.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Services\\CorsoService.cs",
+              "RelativeToolTip": "05_eserciziocorsi\\Services\\CorsoService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA7wDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:15:25.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CorsoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Repos\\CorsoRepo.cs",
+              "RelativeDocumentMoniker": "05_eserciziocorsi\\Repos\\CorsoRepo.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Repos\\CorsoRepo.cs",
+              "RelativeToolTip": "05_eserciziocorsi\\Repos\\CorsoRepo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:17:05.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Generic.cshtml",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Views\\Error\\Generic.cshtml",
+              "RelativeDocumentMoniker": "05_eserciziocorsi\\Views\\Error\\Generic.cshtml",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Views\\Error\\Generic.cshtml",
+              "RelativeToolTip": "05_eserciziocorsi\\Views\\Error\\Generic.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T13:21:41.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Program.cs",
+              "RelativeDocumentMoniker": "05_eserciziocorsi\\Program.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Program.cs",
+              "RelativeToolTip": "05_eserciziocorsi\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:16:02.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "05_eserciziocorsi\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "05_eserciziocorsi\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T09:13:55.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IserviceScrittura.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Services\\IserviceScrittura.cs",
+              "RelativeDocumentMoniker": "05_eserciziocorsi\\Services\\IserviceScrittura.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Services\\IserviceScrittura.cs",
+              "RelativeToolTip": "05_eserciziocorsi\\Services\\IserviceScrittura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T14:22:32.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IServiceLettura.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Services\\IServiceLettura.cs",
+              "RelativeDocumentMoniker": "05_eserciziocorsi\\Services\\IServiceLettura.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Services\\IServiceLettura.cs",
+              "RelativeToolTip": "05_eserciziocorsi\\Services\\IServiceLettura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T14:22:08.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CorsoApiController.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Controllers\\CorsoApiController.cs",
+              "RelativeDocumentMoniker": "05_eserciziocorsi\\Controllers\\CorsoApiController.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Controllers\\CorsoApiController.cs",
+              "RelativeToolTip": "05_eserciziocorsi\\Controllers\\CorsoApiController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:43:26.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CorsoController.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Controllers\\CorsoController.cs",
+              "RelativeDocumentMoniker": "05_eserciziocorsi\\Controllers\\CorsoController.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Controllers\\CorsoController.cs",
+              "RelativeToolTip": "05_eserciziocorsi\\Controllers\\CorsoController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAswEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:55:31.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "05_eserciziocorsi\\Controllers\\ErrorController.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "05_eserciziocorsi\\Controllers\\ErrorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:20:45.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "05_eserciziocorsi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "05_eserciziocorsi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:18:11.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\appsettings.json",
+              "RelativeDocumentMoniker": "05_eserciziocorsi\\appsettings.json",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\appsettings.json",
+              "RelativeToolTip": "05_eserciziocorsi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAClAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T09:18:41.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "05_eserciziocorsi\\Services\\AdminService.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Services\\AdminService.cs",
+              "RelativeToolTip": "05_eserciziocorsi\\Services\\AdminService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAtwBQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:40:39.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminRepo.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Repos\\AdminRepo.cs",
+              "RelativeDocumentMoniker": "05_eserciziocorsi\\Repos\\AdminRepo.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Repos\\AdminRepo.cs",
+              "RelativeToolTip": "05_eserciziocorsi\\Repos\\AdminRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:39:53.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminDTO.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Models\\AdminDTO.cs",
+              "RelativeDocumentMoniker": "05_eserciziocorsi\\Models\\AdminDTO.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Models\\AdminDTO.cs",
+              "RelativeToolTip": "05_eserciziocorsi\\Models\\AdminDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:12:40.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Repos\\IRepo.cs",
+              "RelativeDocumentMoniker": "05_eserciziocorsi\\Repos\\IRepo.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\Repos\\IRepo.cs",
+              "RelativeToolTip": "05_eserciziocorsi\\Repos\\IRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:15:55.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "05_eserciziocorsi",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\05_eserciziocorsi.csproj",
+              "RelativeDocumentMoniker": "05_eserciziocorsi\\05_eserciziocorsi.csproj",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\05_eserciziocorsi\\05_eserciziocorsi\\05_eserciziocorsi.csproj",
+              "RelativeToolTip": "05_eserciziocorsi\\05_eserciziocorsi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T08:37:43.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

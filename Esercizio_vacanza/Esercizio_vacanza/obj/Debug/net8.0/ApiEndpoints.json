@@ -1,0 +1,110 @@
+[
+  {
+    "ContainingType": "Esercizio_vacanza.Controllers.DestinazioneController",
+    "Method": "Listades",
+    "RelativePath": "api/Destinazioni/lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Esercizio_vacanza.Models.DestinazioneDTO, Esercizio_vacanza, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Esercizio_vacanza.Controllers.DestinazioneController",
+    "Method": "Listadespac",
+    "RelativePath": "api/Destinazioni/lista/{varCodice}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Esercizio_vacanza.Models.DestinazioneDTO, Esercizio_vacanza, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Esercizio_vacanza.Controllers.PacchettoController",
+    "Method": "CercaPerCodice",
+    "RelativePath": "api/Pacchetti/{varCodice}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Esercizio_vacanza.Models.PacchettoDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Esercizio_vacanza.Controllers.PacchettoController",
+    "Method": "Listapac",
+    "RelativePath": "api/Pacchetti/lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Esercizio_vacanza.Models.PacchettoDTO, Esercizio_vacanza, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Esercizio_vacanza.Controllers.RecensioneController",
+    "Method": "InserisciRecensione",
+    "RelativePath": "api/Recensioni",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rDto",
+        "Type": "Esercizio_vacanza.Models.RecensioneDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

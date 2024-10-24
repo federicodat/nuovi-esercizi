@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\federico.dattilo\\source\\repos\\rest_02_ef_libreria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB80ACEF-3616-40BD-9F94-654AAD8AE76E}|rest_02_ef_libreria\\rest_02_ef_libreria.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_02_ef_libreria\\rest_02_ef_libreria\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB80ACEF-3616-40BD-9F94-654AAD8AE76E}|rest_02_ef_libreria\\rest_02_ef_libreria.csproj|solutionrelative:rest_02_ef_libreria\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB80ACEF-3616-40BD-9F94-654AAD8AE76E}|rest_02_ef_libreria\\rest_02_ef_libreria.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_02_ef_libreria\\rest_02_ef_libreria\\repository\\librorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB80ACEF-3616-40BD-9F94-654AAD8AE76E}|rest_02_ef_libreria\\rest_02_ef_libreria.csproj|solutionrelative:rest_02_ef_libreria\\repository\\librorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB80ACEF-3616-40BD-9F94-654AAD8AE76E}|rest_02_ef_libreria\\rest_02_ef_libreria.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_02_ef_libreria\\rest_02_ef_libreria\\models\\aeflez02libreriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB80ACEF-3616-40BD-9F94-654AAD8AE76E}|rest_02_ef_libreria\\rest_02_ef_libreria.csproj|solutionrelative:rest_02_ef_libreria\\models\\aeflez02libreriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB80ACEF-3616-40BD-9F94-654AAD8AE76E}|rest_02_ef_libreria\\rest_02_ef_libreria.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_02_ef_libreria\\rest_02_ef_libreria\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB80ACEF-3616-40BD-9F94-654AAD8AE76E}|rest_02_ef_libreria\\rest_02_ef_libreria.csproj|solutionrelative:rest_02_ef_libreria\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB80ACEF-3616-40BD-9F94-654AAD8AE76E}|rest_02_ef_libreria\\rest_02_ef_libreria.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_02_ef_libreria\\rest_02_ef_libreria\\repository\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB80ACEF-3616-40BD-9F94-654AAD8AE76E}|rest_02_ef_libreria\\rest_02_ef_libreria.csproj|solutionrelative:rest_02_ef_libreria\\repository\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB80ACEF-3616-40BD-9F94-654AAD8AE76E}|rest_02_ef_libreria\\rest_02_ef_libreria.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_02_ef_libreria\\rest_02_ef_libreria\\rest_02_ef_libreria.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB80ACEF-3616-40BD-9F94-654AAD8AE76E}|rest_02_ef_libreria\\rest_02_ef_libreria.csproj|solutionrelative:rest_02_ef_libreria\\rest_02_ef_libreria.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibroController.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\rest_02_ef_libreria\\rest_02_ef_libreria\\Controllers\\LibroController.cs",
+              "RelativeDocumentMoniker": "rest_02_ef_libreria\\Controllers\\LibroController.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\rest_02_ef_libreria\\rest_02_ef_libreria\\Controllers\\LibroController.cs",
+              "RelativeToolTip": "rest_02_ef_libreria\\Controllers\\LibroController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:13:10.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Irepo.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\rest_02_ef_libreria\\rest_02_ef_libreria\\Repository\\Irepo.cs",
+              "RelativeDocumentMoniker": "rest_02_ef_libreria\\Repository\\Irepo.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\rest_02_ef_libreria\\rest_02_ef_libreria\\Repository\\Irepo.cs",
+              "RelativeToolTip": "rest_02_ef_libreria\\Repository\\Irepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:01:34.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibroRepo.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\rest_02_ef_libreria\\rest_02_ef_libreria\\Repository\\LibroRepo.cs",
+              "RelativeDocumentMoniker": "rest_02_ef_libreria\\Repository\\LibroRepo.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\rest_02_ef_libreria\\rest_02_ef_libreria\\Repository\\LibroRepo.cs",
+              "RelativeToolTip": "rest_02_ef_libreria\\Repository\\LibroRepo.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAADwv2YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:01:01.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\rest_02_ef_libreria\\rest_02_ef_libreria\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "rest_02_ef_libreria\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\rest_02_ef_libreria\\rest_02_ef_libreria\\Models\\Libro.cs",
+              "RelativeToolTip": "rest_02_ef_libreria\\Models\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:28:26.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AEfLez02LibreriaContext.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\rest_02_ef_libreria\\rest_02_ef_libreria\\Models\\AEfLez02LibreriaContext.cs",
+              "RelativeDocumentMoniker": "rest_02_ef_libreria\\Models\\AEfLez02LibreriaContext.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\rest_02_ef_libreria\\rest_02_ef_libreria\\Models\\AEfLez02LibreriaContext.cs",
+              "RelativeToolTip": "rest_02_ef_libreria\\Models\\AEfLez02LibreriaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:57:07.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "rest_02_ef_libreria",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\rest_02_ef_libreria\\rest_02_ef_libreria\\rest_02_ef_libreria.csproj",
+              "RelativeDocumentMoniker": "rest_02_ef_libreria\\rest_02_ef_libreria.csproj",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\rest_02_ef_libreria\\rest_02_ef_libreria\\rest_02_ef_libreria.csproj",
+              "RelativeToolTip": "rest_02_ef_libreria\\rest_02_ef_libreria.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T12:58:11.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+[
+  {
+    "ContainingType": "rest_03_ef_ferramenta.Controllers.ProdottoController",
+    "Method": "ElencoProdotti",
+    "RelativePath": "api/prodotto",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[rest_03_ef_ferramenta.Models.Prodotto, rest_03_ef_ferramenta, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "rest_03_ef_ferramenta.Controllers.ProdottoController",
+    "Method": "InserisciProdotto",
+    "RelativePath": "api/prodotto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objLib",
+        "Type": "rest_03_ef_ferramenta.Models.Prodotto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "rest_03_ef_ferramenta.Controllers.ProdottoController",
+    "Method": "ModificaProdotto",
+    "RelativePath": "api/prodotto",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objLib",
+        "Type": "rest_03_ef_ferramenta.Models.Prodotto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "rest_03_ef_ferramenta.Controllers.ProdottoController",
+    "Method": "CercaProdottoPerCodice",
+    "RelativePath": "api/prodotto/{varCodi}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodi",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "rest_03_ef_ferramenta.Models.Prodotto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "rest_03_ef_ferramenta.Controllers.ProdottoController",
+    "Method": "EliminaProdotto",
+    "RelativePath": "api/prodotto/{varCodice}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

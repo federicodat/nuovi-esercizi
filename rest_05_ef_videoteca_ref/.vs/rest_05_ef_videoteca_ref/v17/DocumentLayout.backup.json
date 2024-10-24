@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C875C08-45A3-442A-B306-2FCEF6BC9C1D}|rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\models\\videotecadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C875C08-45A3-442A-B306-2FCEF6BC9C1D}|rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj|solutionrelative:rest_05_ef_videoteca_ref\\models\\videotecadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C875C08-45A3-442A-B306-2FCEF6BC9C1D}|rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C875C08-45A3-442A-B306-2FCEF6BC9C1D}|rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj|solutionrelative:rest_05_ef_videoteca_ref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C875C08-45A3-442A-B306-2FCEF6BC9C1D}|rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\services\\videotecaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C875C08-45A3-442A-B306-2FCEF6BC9C1D}|rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj|solutionrelative:rest_05_ef_videoteca_ref\\services\\videotecaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C875C08-45A3-442A-B306-2FCEF6BC9C1D}|rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C875C08-45A3-442A-B306-2FCEF6BC9C1D}|rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj|solutionrelative:rest_05_ef_videoteca_ref\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C875C08-45A3-442A-B306-2FCEF6BC9C1D}|rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\controllers\\videotecacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C875C08-45A3-442A-B306-2FCEF6BC9C1D}|rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj|solutionrelative:rest_05_ef_videoteca_ref\\controllers\\videotecacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C875C08-45A3-442A-B306-2FCEF6BC9C1D}|rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\repository\\videotecarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C875C08-45A3-442A-B306-2FCEF6BC9C1D}|rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj|solutionrelative:rest_05_ef_videoteca_ref\\repository\\videotecarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C875C08-45A3-442A-B306-2FCEF6BC9C1D}|rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\models\\blockbustercontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C875C08-45A3-442A-B306-2FCEF6BC9C1D}|rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj|solutionrelative:rest_05_ef_videoteca_ref\\models\\blockbustercontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C875C08-45A3-442A-B306-2FCEF6BC9C1D}|rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\models\\videoteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C875C08-45A3-442A-B306-2FCEF6BC9C1D}|rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj|solutionrelative:rest_05_ef_videoteca_ref\\models\\videoteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C875C08-45A3-442A-B306-2FCEF6BC9C1D}|rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\repository\\supportorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C875C08-45A3-442A-B306-2FCEF6BC9C1D}|rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj|solutionrelative:rest_05_ef_videoteca_ref\\repository\\supportorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C875C08-45A3-442A-B306-2FCEF6BC9C1D}|rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\repository\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C875C08-45A3-442A-B306-2FCEF6BC9C1D}|rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj|solutionrelative:rest_05_ef_videoteca_ref\\repository\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C875C08-45A3-442A-B306-2FCEF6BC9C1D}|rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\models\\supporto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C875C08-45A3-442A-B306-2FCEF6BC9C1D}|rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj|solutionrelative:rest_05_ef_videoteca_ref\\models\\supporto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C875C08-45A3-442A-B306-2FCEF6BC9C1D}|rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C875C08-45A3-442A-B306-2FCEF6BC9C1D}|rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj|solutionrelative:rest_05_ef_videoteca_ref\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C875C08-45A3-442A-B306-2FCEF6BC9C1D}|rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5C875C08-45A3-442A-B306-2FCEF6BC9C1D}|rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj|solutionrelative:rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Videoteca.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\Models\\Videoteca.cs",
+              "RelativeDocumentMoniker": "rest_05_ef_videoteca_ref\\Models\\Videoteca.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\Models\\Videoteca.cs",
+              "RelativeToolTip": "rest_05_ef_videoteca_ref\\Models\\Videoteca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:24:03.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\Repository\\IRepo.cs",
+              "RelativeDocumentMoniker": "rest_05_ef_videoteca_ref\\Repository\\IRepo.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\Repository\\IRepo.cs",
+              "RelativeToolTip": "rest_05_ef_videoteca_ref\\Repository\\IRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:22:51.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SupportoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\Repository\\SupportoRepo.cs",
+              "RelativeDocumentMoniker": "rest_05_ef_videoteca_ref\\Repository\\SupportoRepo.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\Repository\\SupportoRepo.cs",
+              "RelativeToolTip": "rest_05_ef_videoteca_ref\\Repository\\SupportoRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:41:58.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VideotecaController.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\Controllers\\VideotecaController.cs",
+              "RelativeDocumentMoniker": "rest_05_ef_videoteca_ref\\Controllers\\VideotecaController.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\Controllers\\VideotecaController.cs",
+              "RelativeToolTip": "rest_05_ef_videoteca_ref\\Controllers\\VideotecaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:34:02.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\services\\IService.cs",
+              "RelativeDocumentMoniker": "rest_05_ef_videoteca_ref\\services\\IService.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\services\\IService.cs",
+              "RelativeToolTip": "rest_05_ef_videoteca_ref\\services\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:09:43.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VideotecaService.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\services\\VideotecaService.cs",
+              "RelativeDocumentMoniker": "rest_05_ef_videoteca_ref\\services\\VideotecaService.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\services\\VideotecaService.cs",
+              "RelativeToolTip": "rest_05_ef_videoteca_ref\\services\\VideotecaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:11:04.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\Program.cs",
+              "RelativeDocumentMoniker": "rest_05_ef_videoteca_ref\\Program.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\Program.cs",
+              "RelativeToolTip": "rest_05_ef_videoteca_ref\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwCgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:45:36.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VideotecaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\Models\\VideotecaDTO.cs",
+              "RelativeDocumentMoniker": "rest_05_ef_videoteca_ref\\Models\\VideotecaDTO.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\Models\\VideotecaDTO.cs",
+              "RelativeToolTip": "rest_05_ef_videoteca_ref\\Models\\VideotecaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:26:30.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VideotecaRepo.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\Repository\\VideotecaRepo.cs",
+              "RelativeDocumentMoniker": "rest_05_ef_videoteca_ref\\Repository\\VideotecaRepo.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\Repository\\VideotecaRepo.cs",
+              "RelativeToolTip": "rest_05_ef_videoteca_ref\\Repository\\VideotecaRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:25:06.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlockbusterContex.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\Models\\BlockbusterContex.cs",
+              "RelativeDocumentMoniker": "rest_05_ef_videoteca_ref\\Models\\BlockbusterContex.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\Models\\BlockbusterContex.cs",
+              "RelativeToolTip": "rest_05_ef_videoteca_ref\\Models\\BlockbusterContex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:26:58.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Supporto.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\Models\\Supporto.cs",
+              "RelativeDocumentMoniker": "rest_05_ef_videoteca_ref\\Models\\Supporto.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\Models\\Supporto.cs",
+              "RelativeToolTip": "rest_05_ef_videoteca_ref\\Models\\Supporto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:39:28.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\appsettings.json",
+              "RelativeDocumentMoniker": "rest_05_ef_videoteca_ref\\appsettings.json",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\appsettings.json",
+              "RelativeToolTip": "rest_05_ef_videoteca_ref\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T10:37:12.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "rest_05_ef_videoteca_ref.csproj",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj",
+              "RelativeDocumentMoniker": "rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj",
+              "RelativeToolTip": "rest_05_ef_videoteca_ref\\rest_05_ef_videoteca_ref.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T10:22:03.387Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

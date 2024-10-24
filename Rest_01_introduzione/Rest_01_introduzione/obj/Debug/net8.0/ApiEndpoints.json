@@ -1,0 +1,98 @@
+[
+  {
+    "ContainingType": "Rest_01_introduzione.Controllers.HelloController",
+    "Method": "Index",
+    "RelativePath": "api/hello",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Rest_01_introduzione.Controllers.HelloController",
+    "Method": "saluta",
+    "RelativePath": "api/hello/ciao",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Rest_01_introduzione.Controllers.HelloController",
+    "Method": "TestGet",
+    "RelativePath": "api/hello/saluta/{varNome}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varNome",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Rest_01_introduzione.Controllers.HelloController",
+    "Method": "TestGet",
+    "RelativePath": "api/hello/test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Rest_01_introduzione.Controllers.HelloController",
+    "Method": "TestPost",
+    "RelativePath": "api/hello/test",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Rest_01_introduzione.Controllers.StudenteController",
+    "Method": "DettaglioStudente",
+    "RelativePath": "api/studente/dettaglio",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Rest_01_introduzione.Models.Studente",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Rest_01_introduzione.Controllers.StudenteController",
+    "Method": "ElencoStudenti",
+    "RelativePath": "api/studente/lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Rest_01_introduzione.Models.Studente, Rest_01_introduzione, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

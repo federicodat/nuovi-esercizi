@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\EF_ESERCIZIO_FERRAMENTA_REFACTORY.props" />
+</Project>

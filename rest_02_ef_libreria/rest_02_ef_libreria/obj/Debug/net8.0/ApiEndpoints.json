@@ -1,0 +1,96 @@
+[
+  {
+    "ContainingType": "rest_02_ef_libreria.Controllers.LibroController",
+    "Method": "ElencoLibri",
+    "RelativePath": "api/libri",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[rest_02_ef_libreria.Models.Libro, rest_02_ef_libreria, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "rest_02_ef_libreria.Controllers.LibroController",
+    "Method": "InserisciLibro",
+    "RelativePath": "api/libri",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objLib",
+        "Type": "rest_02_ef_libreria.Models.Libro",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "rest_02_ef_libreria.Controllers.LibroController",
+    "Method": "ModificaLibro",
+    "RelativePath": "api/libri",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objLib",
+        "Type": "rest_02_ef_libreria.Models.Libro",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "rest_02_ef_libreria.Controllers.LibroController",
+    "Method": "CercaLibroPerCodice",
+    "RelativePath": "api/libri/{varCodi}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodi",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[rest_02_ef_libreria.Models.Libro, rest_02_ef_libreria, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "rest_02_ef_libreria.Controllers.LibroController",
+    "Method": "EliminaLibro",
+    "RelativePath": "api/libri/{varCodice}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

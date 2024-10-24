@@ -1,0 +1,14 @@
+﻿namespace eserciziocorsi.Models
+{
+    public class CorsistaDTO
+    {
+        
+    
+        public string? Nom { get; set; }
+        public string? Cog { get; set; }
+        
+        public string? Ema { get; set; }
+
+    }
+}
+

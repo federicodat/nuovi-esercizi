@@ -1,0 +1,24 @@
+﻿@model List<asp_web_01_introduzione.Models.Persona>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+
+            <th> Nominativo</th>
+            <th> Codice fiscale</th>
+
+            </tr>
+          
+        </thead>
+        <tbody>
+            @foreach (Persona persona in Model)
+        {
+            <tr>
+                <td> @persona.Nominativo</td>
+                <td> @persona.CodFis</td>
+            </tr>
+        }
+    </tbody>
+
+    </table>
+ 

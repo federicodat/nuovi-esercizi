@@ -1,0 +1,6 @@
+@rest_ef_06_migrazione_HostAddress = http://localhost:5038
+
+GET {{rest_ef_06_migrazione_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

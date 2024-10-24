@@ -1,0 +1,84 @@
+[
+  {
+    "ContainingType": "eserciziocorsi.Controllers.IscrizioneController",
+    "Method": "inserisciIscrizione",
+    "RelativePath": "Corsi/iscrizioni",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "iDto",
+        "Type": "eserciziocorsi.Models.IscrizioneDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "eserciziocorsi.Controllers.CorsoController",
+    "Method": "Listacorsi",
+    "RelativePath": "Corsi/lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[eserciziocorsi.Models.CorsoDTO, eserciziocorsi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eserciziocorsi.Controllers.UtenteController",
+    "Method": "Cercautente",
+    "RelativePath": "Utenti/{varute}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varute",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "eserciziocorsi.Models.Utente",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "eserciziocorsi.Controllers.UtenteController",
+    "Method": "listaute",
+    "RelativePath": "Utenti/lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[eserciziocorsi.Models.UtenteDTO, eserciziocorsi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

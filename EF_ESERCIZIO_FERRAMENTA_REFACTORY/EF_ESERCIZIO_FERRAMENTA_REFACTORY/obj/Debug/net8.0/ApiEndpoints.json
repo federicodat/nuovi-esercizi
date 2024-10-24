@@ -1,0 +1,190 @@
+[
+  {
+    "ContainingType": "EF_ESERCIZIO_FERRAMENTA_REFACTORY.Controllers.ProdottoController",
+    "Method": "InserisciProdotto",
+    "RelativePath": "api/Prodotti",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pDto",
+        "Type": "EF_ESERCIZIO_FERRAMENTA_REFACTORY.Models.ProdottoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EF_ESERCIZIO_FERRAMENTA_REFACTORY.Controllers.ProdottoController",
+    "Method": "delete",
+    "RelativePath": "api/Prodotti",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EF_ESERCIZIO_FERRAMENTA_REFACTORY.Controllers.ProdottoController",
+    "Method": "Modificapro",
+    "RelativePath": "api/Prodotti",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objpro",
+        "Type": "EF_ESERCIZIO_FERRAMENTA_REFACTORY.Models.ProdottoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EF_ESERCIZIO_FERRAMENTA_REFACTORY.Controllers.ProdottoController",
+    "Method": "CercaPerCodice",
+    "RelativePath": "api/Prodotti/{varCodice}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EF_ESERCIZIO_FERRAMENTA_REFACTORY.Models.ProdottoDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EF_ESERCIZIO_FERRAMENTA_REFACTORY.Controllers.ProdottoController",
+    "Method": "Listapro",
+    "RelativePath": "api/Prodotti/lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[EF_ESERCIZIO_FERRAMENTA_REFACTORY.Models.ProdottoDTO, EF_ESERCIZIO_FERRAMENTA_REFACTORY, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EF_ESERCIZIO_FERRAMENTA_REFACTORY.Controllers.RepartoController",
+    "Method": "InserisciReparto",
+    "RelativePath": "api/Reparti",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rDto",
+        "Type": "EF_ESERCIZIO_FERRAMENTA_REFACTORY.Models.RepartoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EF_ESERCIZIO_FERRAMENTA_REFACTORY.Controllers.RepartoController",
+    "Method": "delete",
+    "RelativePath": "api/Reparti",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EF_ESERCIZIO_FERRAMENTA_REFACTORY.Controllers.RepartoController",
+    "Method": "Modificarep",
+    "RelativePath": "api/Reparti",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objrep",
+        "Type": "EF_ESERCIZIO_FERRAMENTA_REFACTORY.Models.RepartoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EF_ESERCIZIO_FERRAMENTA_REFACTORY.Controllers.RepartoController",
+    "Method": "CercaPerCodice",
+    "RelativePath": "api/Reparti/{varCodice}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EF_ESERCIZIO_FERRAMENTA_REFACTORY.Models.RepartoDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EF_ESERCIZIO_FERRAMENTA_REFACTORY.Controllers.RepartoController",
+    "Method": "Listarep",
+    "RelativePath": "api/Reparti/lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[EF_ESERCIZIO_FERRAMENTA_REFACTORY.Models.RepartoDTO, EF_ESERCIZIO_FERRAMENTA_REFACTORY, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

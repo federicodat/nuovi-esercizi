@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\rest_02_ef_libreria.props" />
+</Project>

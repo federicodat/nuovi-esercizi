@@ -1,0 +1,6 @@
+@EF_ESERCIZIO_FERRAMENTA_REFACTORY_HostAddress = http://localhost:5140
+
+GET {{EF_ESERCIZIO_FERRAMENTA_REFACTORY_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
