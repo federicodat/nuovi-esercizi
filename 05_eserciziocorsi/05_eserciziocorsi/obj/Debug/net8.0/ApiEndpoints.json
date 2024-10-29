@@ -18,5 +18,63 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "_05_eserciziocorsi.Controllers.IscrizioneApiController",
+    "Method": "Inserisci",
+    "RelativePath": "api/iscrizione",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "iscDto",
+        "Type": "_05_eserciziocorsi.Models.IscrizioneDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_05_eserciziocorsi.Controllers.IscrizioneApiController",
+    "Method": "delete",
+    "RelativePath": "api/iscrizione",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_05_eserciziocorsi.Controllers.IscrizioneApiController",
+    "Method": "CercaPerCodice",
+    "RelativePath": "api/iscrizione/{varCodice}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "_05_eserciziocorsi.Models.IscrizioneDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

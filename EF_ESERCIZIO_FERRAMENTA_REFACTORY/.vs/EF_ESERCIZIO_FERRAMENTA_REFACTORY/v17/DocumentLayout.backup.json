@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|c:\\users\\federico.dattilo\\source\\repos\\ef_esercizio_ferramenta_refactory\\ef_esercizio_ferramenta_refactory\\controllers\\repartocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|solutionrelative:ef_esercizio_ferramenta_refactory\\controllers\\repartocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|c:\\users\\federico.dattilo\\source\\repos\\ef_esercizio_ferramenta_refactory\\ef_esercizio_ferramenta_refactory\\services\\repartoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|solutionrelative:ef_esercizio_ferramenta_refactory\\services\\repartoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|c:\\users\\federico.dattilo\\source\\repos\\ef_esercizio_ferramenta_refactory\\ef_esercizio_ferramenta_refactory\\services\\prodottoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|solutionrelative:ef_esercizio_ferramenta_refactory\\services\\prodottoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|c:\\users\\federico.dattilo\\source\\repos\\ef_esercizio_ferramenta_refactory\\ef_esercizio_ferramenta_refactory\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|solutionrelative:ef_esercizio_ferramenta_refactory\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|c:\\users\\federico.dattilo\\source\\repos\\ef_esercizio_ferramenta_refactory\\ef_esercizio_ferramenta_refactory\\repository\\prodottorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|solutionrelative:ef_esercizio_ferramenta_refactory\\repository\\prodottorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|c:\\users\\federico.dattilo\\source\\repos\\ef_esercizio_ferramenta_refactory\\ef_esercizio_ferramenta_refactory\\services\\prodottoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|solutionrelative:ef_esercizio_ferramenta_refactory\\services\\prodottoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|c:\\users\\federico.dattilo\\source\\repos\\ef_esercizio_ferramenta_refactory\\ef_esercizio_ferramenta_refactory\\controllers\\repartocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|solutionrelative:ef_esercizio_ferramenta_refactory\\controllers\\repartocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|c:\\users\\federico.dattilo\\source\\repos\\ef_esercizio_ferramenta_refactory\\ef_esercizio_ferramenta_refactory\\services\\repartoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|solutionrelative:ef_esercizio_ferramenta_refactory\\services\\repartoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F2E9ADA-9C75-4272-8671-A6EC92CF6BC9}|EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY.csproj|c:\\users\\federico.dattilo\\source\\repos\\ef_esercizio_ferramenta_refactory\\ef_esercizio_ferramenta_refactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,30 +70,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "ProdottoRepo.cs",
               "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Repository\\ProdottoRepo.cs",
               "RelativeDocumentMoniker": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Repository\\ProdottoRepo.cs",
               "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Repository\\ProdottoRepo.cs",
               "RelativeToolTip": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Repository\\ProdottoRepo.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAIwHAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwDEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T15:27:18.617Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ProdottoController.cs",
               "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Controllers\\ProdottoController.cs",
               "RelativeDocumentMoniker": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Controllers\\ProdottoController.cs",
-              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Controllers\\ProdottoController.cs",
-              "RelativeToolTip": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Controllers\\ProdottoController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwDUAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Controllers\\ProdottoController.cs*",
+              "RelativeToolTip": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Controllers\\ProdottoController.cs*",
+              "ViewState": "AgIAACgAAAAAAAAAAAA5wDkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-12T10:08:50.868Z",
               "EditorCaption": ""
@@ -106,7 +106,7 @@
               "RelativeDocumentMoniker": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Services\\ProdottoService.cs",
               "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Services\\ProdottoService.cs",
               "RelativeToolTip": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Services\\ProdottoService.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAowE8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T15:30:32.096Z",
               "EditorCaption": ""
@@ -145,12 +145,11 @@
               "RelativeToolTip": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Program.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAAwC0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T14:59:57.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T14:59:57.507Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "RepartoService.cs",
               "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Services\\RepartoService.cs",
               "RelativeDocumentMoniker": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Services\\RepartoService.cs",
@@ -158,12 +157,11 @@
               "RelativeToolTip": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Services\\RepartoService.cs",
               "ViewState": "AgIAAEMAAAAAAAAAAAAkwFUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T15:29:32.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T15:29:32.264Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "RepartoController.cs",
               "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Controllers\\RepartoController.cs",
               "RelativeDocumentMoniker": "EF_ESERCIZIO_FERRAMENTA_REFACTORY\\Controllers\\RepartoController.cs",

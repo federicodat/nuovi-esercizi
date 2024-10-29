@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "rest_06_jwt.Controllers.AdminController",
+    "Method": "Profilo",
+    "RelativePath": "api/Admin/profilo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "rest_06_jwt.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objLogin",
+        "Type": "rest_06_jwt.Models.UserLogin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "rest_06_jwt.Controllers.UserController",
+    "Method": "Profilo",
+    "RelativePath": "api/User/profilo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

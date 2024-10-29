@@ -9,5 +9,6 @@ namespace _05_eserciziocorsi.Contex
 
         public DbSet<Admin> Amministratori { get; set; }
         public DbSet<Corso> Corsi { get; set; }
+        public DbSet<Iscrizione> Iscrizioni { get; set; }
     }
 }

@@ -42,7 +42,10 @@ namespace _05_eserciziocorsi.Repos
         {
             throw new NotImplementedException();
         }
-
+        public Corso? GetByCode(string cod)
+        {
+            return _context.Corsi.FirstOrDefault(c => c.CodCorso == cod);
+        }
         public IEnumerable<Corso> GetAll()
         {
             return _context.Corsi.ToList();

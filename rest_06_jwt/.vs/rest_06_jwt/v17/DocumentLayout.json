@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\federico.dattilo\\source\\repos\\rest_06_jwt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9A1387-EF9F-4490-8E37-D51C766BED52}|rest_06_jwt\\rest_06_jwt.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_06_jwt\\rest_06_jwt\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9A1387-EF9F-4490-8E37-D51C766BED52}|rest_06_jwt\\rest_06_jwt.csproj|solutionrelative:rest_06_jwt\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9A1387-EF9F-4490-8E37-D51C766BED52}|rest_06_jwt\\rest_06_jwt.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_06_jwt\\rest_06_jwt\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9A1387-EF9F-4490-8E37-D51C766BED52}|rest_06_jwt\\rest_06_jwt.csproj|solutionrelative:rest_06_jwt\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9A1387-EF9F-4490-8E37-D51C766BED52}|rest_06_jwt\\rest_06_jwt.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_06_jwt\\rest_06_jwt\\models\\autorizzautentepertipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9A1387-EF9F-4490-8E37-D51C766BED52}|rest_06_jwt\\rest_06_jwt.csproj|solutionrelative:rest_06_jwt\\models\\autorizzautentepertipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9A1387-EF9F-4490-8E37-D51C766BED52}|rest_06_jwt\\rest_06_jwt.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_06_jwt\\rest_06_jwt\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9A1387-EF9F-4490-8E37-D51C766BED52}|rest_06_jwt\\rest_06_jwt.csproj|solutionrelative:rest_06_jwt\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9A1387-EF9F-4490-8E37-D51C766BED52}|rest_06_jwt\\rest_06_jwt.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_06_jwt\\rest_06_jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9A1387-EF9F-4490-8E37-D51C766BED52}|rest_06_jwt\\rest_06_jwt.csproj|solutionrelative:rest_06_jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9A1387-EF9F-4490-8E37-D51C766BED52}|rest_06_jwt\\rest_06_jwt.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_06_jwt\\rest_06_jwt\\rest_06_jwt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A9A1387-EF9F-4490-8E37-D51C766BED52}|rest_06_jwt\\rest_06_jwt.csproj|solutionrelative:rest_06_jwt\\rest_06_jwt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\rest_06_jwt\\rest_06_jwt\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "rest_06_jwt\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\rest_06_jwt\\rest_06_jwt\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "rest_06_jwt\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:48:21.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\rest_06_jwt\\rest_06_jwt\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "rest_06_jwt\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\rest_06_jwt\\rest_06_jwt\\Controllers\\UserController.cs",
+              "RelativeToolTip": "rest_06_jwt\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:15:30.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutorizzaUtentePerTipo.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\rest_06_jwt\\rest_06_jwt\\Models\\AutorizzaUtentePerTipo.cs",
+              "RelativeDocumentMoniker": "rest_06_jwt\\Models\\AutorizzaUtentePerTipo.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\rest_06_jwt\\rest_06_jwt\\Models\\AutorizzaUtentePerTipo.cs",
+              "RelativeToolTip": "rest_06_jwt\\Models\\AutorizzaUtentePerTipo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:20:34.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\rest_06_jwt\\rest_06_jwt\\Models\\UserLogin.cs",
+              "RelativeDocumentMoniker": "rest_06_jwt\\Models\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\rest_06_jwt\\rest_06_jwt\\Models\\UserLogin.cs",
+              "RelativeToolTip": "rest_06_jwt\\Models\\UserLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:14:39.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\rest_06_jwt\\rest_06_jwt\\Program.cs",
+              "RelativeDocumentMoniker": "rest_06_jwt\\Program.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\rest_06_jwt\\rest_06_jwt\\Program.cs",
+              "RelativeToolTip": "rest_06_jwt\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:19:08.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "rest_06_jwt.csproj",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\rest_06_jwt\\rest_06_jwt\\rest_06_jwt.csproj",
+              "RelativeDocumentMoniker": "rest_06_jwt\\rest_06_jwt.csproj",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\rest_06_jwt\\rest_06_jwt\\rest_06_jwt.csproj",
+              "RelativeToolTip": "rest_06_jwt\\rest_06_jwt.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-25T12:13:59.552Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

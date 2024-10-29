@@ -41,7 +41,16 @@ namespace _05_eserciziocorsi.Services
         {
             return _repo.GetAll();
         }
+        public int? GetIdByCode(string cod)
+        {
+            int? risultato = null;
 
+            Corso? c = _repo.GetByCode(cod);
+            if (c is not null)
+                risultato = c.CorsoID;
+
+            return risultato;
+        }
         public bool Update(CorsoDTO t)
         {
             throw new NotImplementedException();

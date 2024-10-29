@@ -1,4 +1,5 @@
 using _05_eserciziocorsi.Contex;
+using _05_eserciziocorsi.Controllers;
 using _05_eserciziocorsi.Repos;
 using _05_eserciziocorsi.Services;
 using Microsoft.EntityFrameworkCore;
@@ -22,9 +23,12 @@ namespace _05_eserciziocorsi
 
             builder.Services.AddScoped<AdminRepo>();
             builder.Services.AddScoped<CorsoRepo>();
+            builder.Services.AddScoped<IscrizioneRepo>();
             builder.Services.AddScoped<AdminService>();
             builder.Services.AddScoped<CorsoService>();
+            builder.Services.AddScoped<IscrizioneApiService>();
             builder.Services.AddScoped<CorsoApiService>();
+            builder.Services.AddScoped<IscrizioneApiController>();
 
 
             builder.Services.AddSession(options =>
@@ -50,6 +54,14 @@ namespace _05_eserciziocorsi
                 name: "default",
                 pattern: "{controller=Auth}/{action=Login}/{id?}");
 
+            #region Configurazione di dev per CORS
+ 
+            app.UseCors(builder =>
+            builder.WithOrigins("*").AllowAnyMethod().AllowAnyHeader()
+            );
+ 
+            #endregion
+           
             app.Run();
         }
     }

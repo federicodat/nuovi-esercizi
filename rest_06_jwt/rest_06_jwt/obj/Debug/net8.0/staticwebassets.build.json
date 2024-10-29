@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WMAGJJtKqJVVKCn1QBdSnMZBeMyqZH8u+YAsiXyvlUg=",
+  "Source": "rest_06_jwt",
+  "BasePath": "_content/rest_06_jwt",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

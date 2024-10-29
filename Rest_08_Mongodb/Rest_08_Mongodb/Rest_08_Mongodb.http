@@ -1,0 +1,6 @@
+@Rest_08_Mongodb_HostAddress = http://localhost:5178
+
+GET {{Rest_08_Mongodb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
