@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rest_08_Mongodb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+832096c6e53d7e15aff811228d1b179e6ff46c19")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+121893dc7066f4495a8c81a720db1b8ae5a61240")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rest_08_Mongodb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rest_08_Mongodb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

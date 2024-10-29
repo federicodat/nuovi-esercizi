@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\federico.dattilo\\source\\repos\\REST_EF_06_Migrazioni\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\federico.dattilo\\source\\repos\\REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni\\Migrations\\20241015091414_colonna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:REST_EF_06_Migrazioni\\Migrations\\20241015091414_colonna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD56476B-9440-4AD5-9FC4-92595E7CBF26}|REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_ef_06_migrazioni\\rest_ef_06_migrazioni\\context\\cinemacontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD56476B-9440-4AD5-9FC4-92595E7CBF26}|REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni.csproj|solutionrelative:rest_ef_06_migrazioni\\context\\cinemacontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD56476B-9440-4AD5-9FC4-92595E7CBF26}|REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_ef_06_migrazioni\\rest_ef_06_migrazioni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD56476B-9440-4AD5-9FC4-92595E7CBF26}|REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni.csproj|solutionrelative:rest_ef_06_migrazioni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD56476B-9440-4AD5-9FC4-92595E7CBF26}|REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_ef_06_migrazioni\\rest_ef_06_migrazioni\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD56476B-9440-4AD5-9FC4-92595E7CBF26}|REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni.csproj|solutionrelative:rest_ef_06_migrazioni\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD56476B-9440-4AD5-9FC4-92595E7CBF26}|REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_ef_06_migrazioni\\rest_ef_06_migrazioni\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,16 +23,8 @@
       "RelativeMoniker": "D:0:0:{CD56476B-9440-4AD5-9FC4-92595E7CBF26}|REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni.csproj|solutionrelative:rest_ef_06_migrazioni\\migrations\\20241015090733_iniziale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD56476B-9440-4AD5-9FC4-92595E7CBF26}|REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_ef_06_migrazioni\\rest_ef_06_migrazioni\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CD56476B-9440-4AD5-9FC4-92595E7CBF26}|REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni.csproj|solutionrelative:rest_ef_06_migrazioni\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD56476B-9440-4AD5-9FC4-92595E7CBF26}|REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_ef_06_migrazioni\\rest_ef_06_migrazioni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD56476B-9440-4AD5-9FC4-92595E7CBF26}|REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni.csproj|solutionrelative:rest_ef_06_migrazioni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD56476B-9440-4AD5-9FC4-92595E7CBF26}|REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_ef_06_migrazioni\\rest_ef_06_migrazioni\\context\\cinemacontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD56476B-9440-4AD5-9FC4-92595E7CBF26}|REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni.csproj|solutionrelative:rest_ef_06_migrazioni\\context\\cinemacontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD56476B-9440-4AD5-9FC4-92595E7CBF26}|REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_ef_06_migrazioni\\rest_ef_06_migrazioni\\migrations\\20241015091414_colonna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD56476B-9440-4AD5-9FC4-92595E7CBF26}|REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni.csproj|solutionrelative:rest_ef_06_migrazioni\\migrations\\20241015091414_colonna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,24 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20241015091414_colonna.cs",
-              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni\\Migrations\\20241015091414_colonna.cs",
-              "RelativeDocumentMoniker": "REST_EF_06_Migrazioni\\Migrations\\20241015091414_colonna.cs",
-              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni\\Migrations\\20241015091414_colonna.cs",
-              "RelativeToolTip": "REST_EF_06_Migrazioni\\Migrations\\20241015091414_colonna.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni\\Models\\Film.cs",
+              "RelativeDocumentMoniker": "REST_EF_06_Migrazioni\\Models\\Film.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni\\Models\\Film.cs",
+              "RelativeToolTip": "REST_EF_06_Migrazioni\\Models\\Film.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAywBUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T09:14:14.845Z",
+              "WhenOpened": "2024-10-15T09:00:52.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "CinemaContex.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni\\Context\\CinemaContex.cs",
+              "RelativeDocumentMoniker": "REST_EF_06_Migrazioni\\Context\\CinemaContex.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni\\Context\\CinemaContex.cs",
+              "RelativeToolTip": "REST_EF_06_Migrazioni\\Context\\CinemaContex.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:00:33.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "20241015090733_iniziale.cs",
               "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni\\Migrations\\20241015090733_iniziale.cs",
               "RelativeDocumentMoniker": "REST_EF_06_Migrazioni\\Migrations\\20241015090733_iniziale.cs",
@@ -64,20 +77,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "20241015091414_colonna.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni\\Migrations\\20241015091414_colonna.cs",
+              "RelativeDocumentMoniker": "REST_EF_06_Migrazioni\\Migrations\\20241015091414_colonna.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni\\Migrations\\20241015091414_colonna.cs",
+              "RelativeToolTip": "REST_EF_06_Migrazioni\\Migrations\\20241015091414_colonna.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:14:14.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni\\Program.cs",
               "RelativeDocumentMoniker": "REST_EF_06_Migrazioni\\Program.cs",
               "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni\\Program.cs",
               "RelativeToolTip": "REST_EF_06_Migrazioni\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBoAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T09:04:16.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni\\appsettings.json",
               "RelativeDocumentMoniker": "REST_EF_06_Migrazioni\\appsettings.json",
@@ -86,32 +112,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-15T09:02:18.078Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Film.cs",
-              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni\\Models\\Film.cs",
-              "RelativeDocumentMoniker": "REST_EF_06_Migrazioni\\Models\\Film.cs",
-              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni\\Models\\Film.cs",
-              "RelativeToolTip": "REST_EF_06_Migrazioni\\Models\\Film.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBUAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T09:00:52.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CinemaContex.cs",
-              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni\\Context\\CinemaContex.cs",
-              "RelativeDocumentMoniker": "REST_EF_06_Migrazioni\\Context\\CinemaContex.cs",
-              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\REST_EF_06_Migrazioni\\REST_EF_06_Migrazioni\\Context\\CinemaContex.cs",
-              "RelativeToolTip": "REST_EF_06_Migrazioni\\Context\\CinemaContex.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T09:00:33.696Z",
               "EditorCaption": ""
             }
           ]

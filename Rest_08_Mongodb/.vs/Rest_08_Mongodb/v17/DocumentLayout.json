@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\federico.dattilo\\source\\repos\\Rest_08_Mongodb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6F2A6F6-6C86-4480-B83E-6EE028D90025}|Rest_08_Mongodb\\Rest_08_Mongodb.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_08_mongodb\\rest_08_mongodb\\repos\\impiegatorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6F2A6F6-6C86-4480-B83E-6EE028D90025}|Rest_08_Mongodb\\Rest_08_Mongodb.csproj|solutionrelative:rest_08_mongodb\\repos\\impiegatorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6F2A6F6-6C86-4480-B83E-6EE028D90025}|Rest_08_Mongodb\\Rest_08_Mongodb.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_08_mongodb\\rest_08_mongodb\\repos\\irepolettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F2A6F6-6C86-4480-B83E-6EE028D90025}|Rest_08_Mongodb\\Rest_08_Mongodb.csproj|solutionrelative:rest_08_mongodb\\repos\\irepolettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F2A6F6-6C86-4480-B83E-6EE028D90025}|Rest_08_Mongodb\\Rest_08_Mongodb.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_08_mongodb\\rest_08_mongodb\\services\\impiegatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F2A6F6-6C86-4480-B83E-6EE028D90025}|Rest_08_Mongodb\\Rest_08_Mongodb.csproj|solutionrelative:rest_08_mongodb\\services\\impiegatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6F2A6F6-6C86-4480-B83E-6EE028D90025}|Rest_08_Mongodb\\Rest_08_Mongodb.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_08_mongodb\\rest_08_mongodb\\controllers\\impiegatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6F2A6F6-6C86-4480-B83E-6EE028D90025}|Rest_08_Mongodb\\Rest_08_Mongodb.csproj|solutionrelative:rest_08_mongodb\\controllers\\impiegatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6F2A6F6-6C86-4480-B83E-6EE028D90025}|Rest_08_Mongodb\\Rest_08_Mongodb.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_08_mongodb\\rest_08_mongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6F2A6F6-6C86-4480-B83E-6EE028D90025}|Rest_08_Mongodb\\Rest_08_Mongodb.csproj|solutionrelative:rest_08_mongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6F2A6F6-6C86-4480-B83E-6EE028D90025}|Rest_08_Mongodb\\Rest_08_Mongodb.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_08_mongodb\\rest_08_mongodb\\models\\impiegatodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6F2A6F6-6C86-4480-B83E-6EE028D90025}|Rest_08_Mongodb\\Rest_08_Mongodb.csproj|solutionrelative:rest_08_mongodb\\models\\impiegatodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6F2A6F6-6C86-4480-B83E-6EE028D90025}|Rest_08_Mongodb\\Rest_08_Mongodb.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_08_mongodb\\rest_08_mongodb\\services\\impiegatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6F2A6F6-6C86-4480-B83E-6EE028D90025}|Rest_08_Mongodb\\Rest_08_Mongodb.csproj|solutionrelative:rest_08_mongodb\\services\\impiegatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6F2A6F6-6C86-4480-B83E-6EE028D90025}|Rest_08_Mongodb\\Rest_08_Mongodb.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_08_mongodb\\rest_08_mongodb\\repos\\impiegatorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F2A6F6-6C86-4480-B83E-6EE028D90025}|Rest_08_Mongodb\\Rest_08_Mongodb.csproj|solutionrelative:rest_08_mongodb\\repos\\impiegatorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6F2A6F6-6C86-4480-B83E-6EE028D90025}|Rest_08_Mongodb\\Rest_08_Mongodb.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_08_mongodb\\rest_08_mongodb\\models\\risposta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,8 +27,12 @@
       "RelativeMoniker": "D:0:0:{C6F2A6F6-6C86-4480-B83E-6EE028D90025}|Rest_08_Mongodb\\Rest_08_Mongodb.csproj|solutionrelative:rest_08_mongodb\\repos\\ireposcrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6F2A6F6-6C86-4480-B83E-6EE028D90025}|Rest_08_Mongodb\\Rest_08_Mongodb.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_08_mongodb\\rest_08_mongodb\\repos\\irepolettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6F2A6F6-6C86-4480-B83E-6EE028D90025}|Rest_08_Mongodb\\Rest_08_Mongodb.csproj|solutionrelative:rest_08_mongodb\\repos\\irepolettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6F2A6F6-6C86-4480-B83E-6EE028D90025}|Rest_08_Mongodb\\Rest_08_Mongodb.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_08_mongodb\\rest_08_mongodb\\models\\impiegatodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F2A6F6-6C86-4480-B83E-6EE028D90025}|Rest_08_Mongodb\\Rest_08_Mongodb.csproj|solutionrelative:rest_08_mongodb\\models\\impiegatodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F2A6F6-6C86-4480-B83E-6EE028D90025}|Rest_08_Mongodb\\Rest_08_Mongodb.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_08_mongodb\\rest_08_mongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F2A6F6-6C86-4480-B83E-6EE028D90025}|Rest_08_Mongodb\\Rest_08_Mongodb.csproj|solutionrelative:rest_08_mongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6F2A6F6-6C86-4480-B83E-6EE028D90025}|Rest_08_Mongodb\\Rest_08_Mongodb.csproj|c:\\users\\federico.dattilo\\source\\repos\\rest_08_mongodb\\rest_08_mongodb\\models\\impiegato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,50 +54,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ImpiegatoService.cs",
-              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\Rest_08_Mongodb\\Rest_08_Mongodb\\Services\\ImpiegatoService.cs",
-              "RelativeDocumentMoniker": "Rest_08_Mongodb\\Services\\ImpiegatoService.cs",
-              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\Rest_08_Mongodb\\Rest_08_Mongodb\\Services\\ImpiegatoService.cs",
-              "RelativeToolTip": "Rest_08_Mongodb\\Services\\ImpiegatoService.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAADwv0MAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T14:19:14.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ImpiegatoController.cs",
               "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\Rest_08_Mongodb\\Rest_08_Mongodb\\Controllers\\ImpiegatoController.cs",
               "RelativeDocumentMoniker": "Rest_08_Mongodb\\Controllers\\ImpiegatoController.cs",
               "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\Rest_08_Mongodb\\Rest_08_Mongodb\\Controllers\\ImpiegatoController.cs",
               "RelativeToolTip": "Rest_08_Mongodb\\Controllers\\ImpiegatoController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAIwEAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAgwEsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T14:24:31.817Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ImpiegatoRepo.cs",
               "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\Rest_08_Mongodb\\Rest_08_Mongodb\\Repos\\ImpiegatoRepo.cs",
               "RelativeDocumentMoniker": "Rest_08_Mongodb\\Repos\\ImpiegatoRepo.cs",
               "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\Rest_08_Mongodb\\Rest_08_Mongodb\\Repos\\ImpiegatoRepo.cs",
               "RelativeToolTip": "Rest_08_Mongodb\\Repos\\ImpiegatoRepo.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDwAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAIwFEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T13:42:14.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
+              "Title": "ImpiegatoService.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\Rest_08_Mongodb\\Rest_08_Mongodb\\Services\\ImpiegatoService.cs",
+              "RelativeDocumentMoniker": "Rest_08_Mongodb\\Services\\ImpiegatoService.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\Rest_08_Mongodb\\Rest_08_Mongodb\\Services\\ImpiegatoService.cs",
+              "RelativeToolTip": "Rest_08_Mongodb\\Services\\ImpiegatoService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAuwEAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:19:14.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "IRepoLettura.cs",
               "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\Rest_08_Mongodb\\Rest_08_Mongodb\\Repos\\IRepoLettura.cs",
               "RelativeDocumentMoniker": "Rest_08_Mongodb\\Repos\\IRepoLettura.cs",
@@ -110,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "IRepoScrittura.cs",
               "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\Rest_08_Mongodb\\Rest_08_Mongodb\\Repos\\IRepoScrittura.cs",
               "RelativeDocumentMoniker": "Rest_08_Mongodb\\Repos\\IRepoScrittura.cs",
@@ -123,33 +123,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Risposta.cs",
               "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\Rest_08_Mongodb\\Rest_08_Mongodb\\Models\\Risposta.cs",
               "RelativeDocumentMoniker": "Rest_08_Mongodb\\Models\\Risposta.cs",
               "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\Rest_08_Mongodb\\Rest_08_Mongodb\\Models\\Risposta.cs",
               "RelativeToolTip": "Rest_08_Mongodb\\Models\\Risposta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T14:34:05.565Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ImpiegatoDTO.cs",
               "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\Rest_08_Mongodb\\Rest_08_Mongodb\\Models\\ImpiegatoDTO.cs",
               "RelativeDocumentMoniker": "Rest_08_Mongodb\\Models\\ImpiegatoDTO.cs",
               "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\Rest_08_Mongodb\\Rest_08_Mongodb\\Models\\ImpiegatoDTO.cs",
               "RelativeToolTip": "Rest_08_Mongodb\\Models\\ImpiegatoDTO.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwBoAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T14:21:31.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\Rest_08_Mongodb\\Rest_08_Mongodb\\Program.cs",
               "RelativeDocumentMoniker": "Rest_08_Mongodb\\Program.cs",
@@ -157,21 +157,19 @@
               "RelativeToolTip": "Rest_08_Mongodb\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T14:20:15.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T14:20:15.249Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Rest_08_Mongodb",
+              "Title": "Rest_08_Mongodb.csproj",
               "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\Rest_08_Mongodb\\Rest_08_Mongodb\\Rest_08_Mongodb.csproj",
               "RelativeDocumentMoniker": "Rest_08_Mongodb\\Rest_08_Mongodb.csproj",
               "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\Rest_08_Mongodb\\Rest_08_Mongodb\\Rest_08_Mongodb.csproj",
               "RelativeToolTip": "Rest_08_Mongodb\\Rest_08_Mongodb.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-28T14:18:44.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T14:18:44.944Z"
             },
             {
               "$type": "Document",
@@ -183,8 +181,7 @@
               "RelativeToolTip": "Rest_08_Mongodb\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-28T13:43:29.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T13:43:29.565Z"
             },
             {
               "$type": "Document",
@@ -196,8 +193,7 @@
               "RelativeToolTip": "Rest_08_Mongodb\\Models\\Impiegato.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAA1wBUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T13:30:12.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T13:30:12.312Z"
             }
           ]
         }

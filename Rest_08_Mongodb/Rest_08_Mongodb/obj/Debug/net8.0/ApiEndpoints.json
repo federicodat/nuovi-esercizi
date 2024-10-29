@@ -37,6 +37,27 @@
   },
   {
     "ContainingType": "Rest_08_Mongodb.Controllers.ImpiegatoController",
+    "Method": "Aggiorna",
+    "RelativePath": "api/impiegati/{varCodice}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "imDto",
+        "Type": "Rest_08_Mongodb.Models.ImpiegatoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Rest_08_Mongodb.Controllers.ImpiegatoController",
     "Method": "CercaPerCodice",
     "RelativePath": "api/impiegati/{varMatr}",
     "HttpMethod": "GET",

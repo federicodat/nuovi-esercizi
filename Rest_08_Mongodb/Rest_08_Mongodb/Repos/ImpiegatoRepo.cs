@@ -56,9 +56,13 @@ namespace Rest_08_Mongodb.Repos
             try
             {
                 var filter = Builders<Impiegato>.Filter.Eq("matr", varmatr);
-                 impiegati.DeleteOne(filter);
+                // impiegati.DeleteOne(filter);
+                //var numeroCancellati =rDeletedCount;
 
-                risultato = true;
+                var result = impiegati.DeleteOne(filter);
+                var numeroCancellati = result.DeletedCount;
+                risultato = numeroCancellati > 0;
+                //risultato = true;
             }
             catch (Exception ex)
             {
@@ -66,8 +70,38 @@ namespace Rest_08_Mongodb.Repos
             }
             return risultato;
         }
+        //db.clienti.update(
+//    {"cod_fis"::{$eq:"APPOPP"}
+//}, 
+//    {$set: { "nominativo":"Ciccio Pasticcio"} }
+//)
+        public bool Update(Impiegato entity)
+        {
+            bool risultato = false;
+            try
+            {
+              
+                var filter = Builders<Impiegato>.Filter.Eq("matr", entity.Matricola);
+                var update = Builders<Impiegato>.Update
+                    .Set("nomi", entity.Nominativo)  
+                    .Set("dipa", entity.Dipartimento); 
 
-         
+                // Esegui l'aggiornamento
+                var result = impiegati.UpdateOne(filter, update);
+
+                // Controlla se l'aggiornamento è andato a buon fine
+                var numeroAggiornati = result.ModifiedCount;
+                //if (numeroAggiornati > 0)
+                //    risultato = true;
+                   
+                risultato = numeroAggiornati > 0;
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex.Message);
+            }
+            return risultato;
+        }
 
 
         public IEnumerable<Impiegato> GetAll()
@@ -80,11 +114,7 @@ namespace Rest_08_Mongodb.Repos
             throw new NotImplementedException();
         }
 
-        public bool Update(Impiegato entity)
-        {
-            throw new NotImplementedException();
-        }
-
+      
         public Impiegato? GetByMatricola(string matricola)
         {
             Impiegato? risultato = null;

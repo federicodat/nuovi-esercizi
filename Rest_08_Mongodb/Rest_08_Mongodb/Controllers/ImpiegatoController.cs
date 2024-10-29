@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Rest_08_Mongodb.Models;
 using Rest_08_Mongodb.Services;
+using SharpCompress.Common;
 
 namespace Rest_08_Mongodb.Controllers
 {
@@ -57,19 +58,45 @@ namespace Rest_08_Mongodb.Controllers
                 Data = impDto
             });
         }
-       
+
         [HttpDelete("{varMatr}")]
         public IActionResult Elimina(string varMatr)
         {
 
             return Ok(new Risposta()
+
+
             {
                 Status = "SUCCESS",
                 Data = _service.elimina(varMatr)
             });
-
-         
         }
+            [HttpPut("{varCodice}")]
+            public IActionResult Aggiorna(string varCodice, ImpiegatoDTO imDto)
+            {
+                if (string.IsNullOrWhiteSpace(varCodice) ||
+                    string.IsNullOrWhiteSpace(imDto.Nom) ||
+                    string.IsNullOrWhiteSpace(imDto.Dip))
+                  
+                    return BadRequest();
+
+                imDto.Mat = varCodice;
+
+            //    if (_service.Aggiorna(imDto))
+            //        return Ok();
+
+            //    return BadRequest();
+            //}
+            return Ok(new Risposta()
+
+
+            {
+                Status = "SUCCESS",
+                Data = _service.Aggiorna(imDto)
+            });
 
     }
+    }
+
 }
+

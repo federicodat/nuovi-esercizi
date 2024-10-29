@@ -61,6 +61,27 @@ namespace Rest_08_Mongodb.Services
                 return risultato;
             }
 
+        public bool Aggiorna(ImpiegatoDTO entity)
+        {
+            bool risultato = false;
+
+            if (entity.Mat is not null)
+            {
+                Impiegato? imp = new Impiegato();
+
+                if ( imp is not null && entity.Nom is not null && entity.Dip is not null)
+                {
+                    imp.Matricola = entity.Mat is not null ? entity.Mat : imp.Matricola;
+                    imp.Nominativo = entity.Nom is not null ? entity.Nom : imp.Nominativo;
+                    imp.Dipartimento = entity.Dip is not null ? entity.Dip : imp.Dipartimento;
+                 
+
+                    risultato = _repo.Update(imp);
+                };
+            }
+
+            return risultato;
+        }
         public bool elimina(string varMat)
         {
          
