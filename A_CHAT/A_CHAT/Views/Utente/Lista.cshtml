@@ -1,0 +1,47 @@
+﻿@model   List<Utente>  
+ 
+
+<h1>Lista Utenti</h1>
+<div class="container">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Username</th>
+                <th>Email</th>
+                <th>Bloccato</th>
+                <th>Richiesta sblocco</th>
+                <th>********** AZIONI  ************</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Utente c in Model)
+            {
+                <tr>
+
+                    <td>@c.username</td>
+ 
+                    <td>@c.email</td>
+                    <td>@c.isbloc</td>
+                    <td>@c.richiesta</td>
+                    <td>
+                        @if (c.isbloc)
+                        {
+                            <a href="@Url.Action("Sblocca", "Utente", new { varUsername = c.username })" class="btn btn-success btn-custom">Sblocca</a>
+
+                        }
+                        else
+                        {
+                            <a href="@Url.Action("Blocca", "Utente", new { varUsername = c.username })" class="btn btn-warning btn-custom">Blocca</a>
+                            
+                        }
+                        <a href="@Url.Action("Cancella", "Utente", new { varUsername = c.username })" class="btn btn-danger btn-custom">Purgalo</a>
+                        
+                    </td>
+
+
+
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

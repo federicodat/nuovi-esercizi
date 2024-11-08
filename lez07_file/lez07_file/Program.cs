@@ -4,37 +4,24 @@
     {
         static void Main(string[] args)
         {
-            string path = "C:\\Users\\federico.dattilo\\source\\prova.txt";
-            #region scrittura
-            //string contenuto = "ciao sono fede";
 
-            //try
-            //{
-            //    using (StreamWriter sw = new StreamWriter(path))
-            //    {
-
-            //        sw.WriteLine("ettttt");
-            //        sw.WriteLine("yyyyyy");
-
-            //        sw.Close();
-            //    };
-
-            //}catch (Exception ex) {Console.WriteLine(ex);}
-            #endregion  scrittura
-
+            string path = "C:\\Users\\federico.dattilo\\source\\persona.csv";
             try
-            { 
-                using(StreamReader sr = new StreamReader(path)) {
+            {
+                using (StreamReader sr = new StreamReader(path))
+                {
                     string? line;
 
-                    while((line = sr.ReadLine()) != null)
-                        { 
-                        Console.WriteLine(line);    
+                    while ((line = sr.ReadLine()) != null)
+                    {
+                        Console.WriteLine(line);
                     }
                 }
-
             }
-            catch (Exception ex) { Console.WriteLine(ex); }    
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
         }
     }
 }

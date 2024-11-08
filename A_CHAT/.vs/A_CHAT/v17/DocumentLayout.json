@@ -1,0 +1,507 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|c:\\users\\federico.dattilo\\source\\repos\\a_chat\\a_chat\\repos\\chatrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|solutionrelative:a_chat\\repos\\chatrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|c:\\users\\federico.dattilo\\source\\repos\\a_chat\\a_chat\\controllers\\chatapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|solutionrelative:a_chat\\controllers\\chatapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|c:\\users\\federico.dattilo\\source\\repos\\a_chat\\a_chat\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|solutionrelative:a_chat\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|c:\\users\\federico.dattilo\\source\\repos\\a_chat\\a_chat\\models\\chatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|solutionrelative:a_chat\\models\\chatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|c:\\users\\federico.dattilo\\source\\repos\\a_chat\\a_chat\\services\\utenteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|solutionrelative:a_chat\\services\\utenteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|c:\\users\\federico.dattilo\\source\\repos\\a_chat\\a_chat\\models\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|solutionrelative:a_chat\\models\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|c:\\users\\federico.dattilo\\source\\repos\\a_chat\\a_chat\\models\\utentedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|solutionrelative:a_chat\\models\\utentedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|c:\\users\\federico.dattilo\\source\\repos\\a_chat\\a_chat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|solutionrelative:a_chat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|c:\\users\\federico.dattilo\\source\\repos\\a_chat\\a_chat\\services\\amministratoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|solutionrelative:a_chat\\services\\amministratoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|c:\\users\\federico.dattilo\\source\\repos\\a_chat\\a_chat\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|solutionrelative:a_chat\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|c:\\users\\federico.dattilo\\source\\repos\\a_chat\\a_chat\\context\\chatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|solutionrelative:a_chat\\context\\chatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|c:\\users\\federico.dattilo\\source\\repos\\a_chat\\a_chat\\controllers\\utenteapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|solutionrelative:a_chat\\controllers\\utenteapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|c:\\users\\federico.dattilo\\source\\repos\\a_chat\\a_chat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|solutionrelative:a_chat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|c:\\users\\federico.dattilo\\source\\repos\\a_chat\\a_chat\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|solutionrelative:a_chat\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|c:\\users\\federico.dattilo\\source\\repos\\a_chat\\a_chat\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|solutionrelative:a_chat\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|c:\\users\\federico.dattilo\\source\\repos\\a_chat\\a_chat\\views\\chat\\listames.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|solutionrelative:a_chat\\views\\chat\\listames.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|c:\\users\\federico.dattilo\\source\\repos\\a_chat\\a_chat\\views\\utente\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|solutionrelative:a_chat\\views\\utente\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|c:\\users\\federico.dattilo\\source\\repos\\a_chat\\a_chat\\views\\chatlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|solutionrelative:a_chat\\views\\chatlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|c:\\users\\federico.dattilo\\source\\repos\\a_chat\\a_chat\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|solutionrelative:a_chat\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|c:\\users\\federico.dattilo\\source\\repos\\a_chat\\a_chat\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|solutionrelative:a_chat\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|c:\\users\\federico.dattilo\\source\\repos\\a_chat\\a_chat\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|solutionrelative:a_chat\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|c:\\users\\federico.dattilo\\source\\repos\\a_chat\\a_chat\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|solutionrelative:a_chat\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|c:\\users\\federico.dattilo\\source\\repos\\a_chat\\a_chat\\views\\utente\\cancella.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|solutionrelative:a_chat\\views\\utente\\cancella.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|c:\\users\\federico.dattilo\\source\\repos\\a_chat\\a_chat\\views\\utente\\blocca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|solutionrelative:a_chat\\views\\utente\\blocca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|c:\\users\\federico.dattilo\\source\\repos\\a_chat\\a_chat\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|solutionrelative:a_chat\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|c:\\users\\federico.dattilo\\source\\repos\\a_chat\\a_chat\\views\\error\\generic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|solutionrelative:a_chat\\views\\error\\generic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|c:\\users\\federico.dattilo\\source\\repos\\a_chat\\a_chat\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|solutionrelative:a_chat\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|c:\\users\\federico.dattilo\\source\\repos\\a_chat\\a_chat\\repos\\ireposcrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|solutionrelative:a_chat\\repos\\ireposcrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|c:\\users\\federico.dattilo\\source\\repos\\a_chat\\a_chat\\services\\iservicescrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|solutionrelative:a_chat\\services\\iservicescrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|c:\\users\\federico.dattilo\\source\\repos\\a_chat\\a_chat\\services\\iservicelettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8799126-9CDE-4C17-B7FA-6B43013B4254}|A_CHAT\\A_CHAT.csproj|solutionrelative:a_chat\\services\\iservicelettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Chat.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Models\\Chat.cs",
+              "RelativeDocumentMoniker": "A_CHAT\\Models\\Chat.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Models\\Chat.cs",
+              "RelativeToolTip": "A_CHAT\\Models\\Chat.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:46:13.365Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Program.cs",
+              "RelativeDocumentMoniker": "A_CHAT\\Program.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Program.cs",
+              "RelativeToolTip": "A_CHAT\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwDgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:51:17.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UtenteService.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Services\\UtenteService.cs",
+              "RelativeDocumentMoniker": "A_CHAT\\Services\\UtenteService.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Services\\UtenteService.cs",
+              "RelativeToolTip": "A_CHAT\\Services\\UtenteService.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAADwv3oAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:39:13.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatDTO.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Models\\ChatDTO.cs",
+              "RelativeDocumentMoniker": "A_CHAT\\Models\\ChatDTO.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Models\\ChatDTO.cs",
+              "RelativeToolTip": "A_CHAT\\Models\\ChatDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:49:40.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatRepo.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Repos\\ChatRepo.cs",
+              "RelativeDocumentMoniker": "A_CHAT\\Repos\\ChatRepo.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Repos\\ChatRepo.cs",
+              "RelativeToolTip": "A_CHAT\\Repos\\ChatRepo.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAwEMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:53:53.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Services\\ChatService.cs",
+              "RelativeDocumentMoniker": "A_CHAT\\Services\\ChatService.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Services\\ChatService.cs",
+              "RelativeToolTip": "A_CHAT\\Services\\ChatService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAA7wFIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:57:05.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AmministratoreService.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Services\\AmministratoreService.cs",
+              "RelativeDocumentMoniker": "A_CHAT\\Services\\AmministratoreService.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Services\\AmministratoreService.cs",
+              "RelativeToolTip": "A_CHAT\\Services\\AmministratoreService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:33:29.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatApiController.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Controllers\\ChatApiController.cs",
+              "RelativeDocumentMoniker": "A_CHAT\\Controllers\\ChatApiController.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Controllers\\ChatApiController.cs",
+              "RelativeToolTip": "A_CHAT\\Controllers\\ChatApiController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:52:19.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UtenteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Models\\UtenteDTO.cs",
+              "RelativeDocumentMoniker": "A_CHAT\\Models\\UtenteDTO.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Models\\UtenteDTO.cs",
+              "RelativeToolTip": "A_CHAT\\Models\\UtenteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:48:19.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "A_CHAT\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "A_CHAT\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T13:50:55.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChatContext.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Context\\ChatContext.cs",
+              "RelativeDocumentMoniker": "A_CHAT\\Context\\ChatContext.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Context\\ChatContext.cs",
+              "RelativeToolTip": "A_CHAT\\Context\\ChatContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:32:38.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "A_CHAT\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "A_CHAT\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:46:48.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\appsettings.json",
+              "RelativeDocumentMoniker": "A_CHAT\\appsettings.json",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\appsettings.json",
+              "RelativeToolTip": "A_CHAT\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T09:19:54.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UtenteApiController.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Controllers\\UtenteApiController.cs",
+              "RelativeDocumentMoniker": "A_CHAT\\Controllers\\UtenteApiController.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Controllers\\UtenteApiController.cs",
+              "RelativeToolTip": "A_CHAT\\Controllers\\UtenteApiController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:30:36.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "A_CHAT\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "A_CHAT\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAApwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:51:01.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Chatlist.cshtml",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Views\\Chatlist.cshtml",
+              "RelativeDocumentMoniker": "A_CHAT\\Views\\Chatlist.cshtml",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Views\\Chatlist.cshtml",
+              "RelativeToolTip": "A_CHAT\\Views\\Chatlist.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T08:26:08.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Listames.cshtml",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Views\\Chat\\Listames.cshtml",
+              "RelativeDocumentMoniker": "A_CHAT\\Views\\Chat\\Listames.cshtml",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Views\\Chat\\Listames.cshtml",
+              "RelativeToolTip": "A_CHAT\\Views\\Chat\\Listames.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T08:27:07.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Lista.cshtml",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Views\\Utente\\Lista.cshtml",
+              "RelativeDocumentMoniker": "A_CHAT\\Views\\Utente\\Lista.cshtml",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Views\\Utente\\Lista.cshtml",
+              "RelativeToolTip": "A_CHAT\\Views\\Utente\\Lista.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T14:17:23.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "A_CHAT\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "A_CHAT\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T13:50:38.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Utente.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Models\\Utente.cs",
+              "RelativeDocumentMoniker": "A_CHAT\\Models\\Utente.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Models\\Utente.cs",
+              "RelativeToolTip": "A_CHAT\\Models\\Utente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:18:01.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "A_CHAT\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "A_CHAT\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T13:58:33.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Cancella.cshtml",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Views\\Utente\\Cancella.cshtml",
+              "RelativeDocumentMoniker": "A_CHAT\\Views\\Utente\\Cancella.cshtml",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Views\\Utente\\Cancella.cshtml",
+              "RelativeToolTip": "A_CHAT\\Views\\Utente\\Cancella.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T14:24:50.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "A_CHAT\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "A_CHAT\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T14:01:10.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "A_CHAT\\Controllers\\ErrorController.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "A_CHAT\\Controllers\\ErrorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:38:20.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Blocca.cshtml",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Views\\Utente\\Blocca.cshtml",
+              "RelativeDocumentMoniker": "A_CHAT\\Views\\Utente\\Blocca.cshtml",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Views\\Utente\\Blocca.cshtml",
+              "RelativeToolTip": "A_CHAT\\Views\\Utente\\Blocca.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T09:57:49.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "A_CHAT\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "A_CHAT\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-05T15:25:53.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Generic.cshtml",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Views\\Error\\Generic.cshtml",
+              "RelativeDocumentMoniker": "A_CHAT\\Views\\Error\\Generic.cshtml",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Views\\Error\\Generic.cshtml",
+              "RelativeToolTip": "A_CHAT\\Views\\Error\\Generic.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T11:26:05.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IServiceLettura.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Services\\IServiceLettura.cs",
+              "RelativeDocumentMoniker": "A_CHAT\\Services\\IServiceLettura.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Services\\IServiceLettura.cs",
+              "RelativeToolTip": "A_CHAT\\Services\\IServiceLettura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:34:30.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IServiceScrittura.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Services\\IServiceScrittura.cs",
+              "RelativeDocumentMoniker": "A_CHAT\\Services\\IServiceScrittura.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Services\\IServiceScrittura.cs",
+              "RelativeToolTip": "A_CHAT\\Services\\IServiceScrittura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:34:56.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IRepoScrittura.cs",
+              "DocumentMoniker": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Repos\\IRepoScrittura.cs",
+              "RelativeDocumentMoniker": "A_CHAT\\Repos\\IRepoScrittura.cs",
+              "ToolTip": "C:\\Users\\federico.dattilo\\source\\repos\\A_CHAT\\A_CHAT\\Repos\\IRepoScrittura.cs",
+              "RelativeToolTip": "A_CHAT\\Repos\\IRepoScrittura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:42:16.958Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

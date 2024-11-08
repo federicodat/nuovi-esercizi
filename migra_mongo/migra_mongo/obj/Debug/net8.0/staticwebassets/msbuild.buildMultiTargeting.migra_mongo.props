@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\migra_mongo.props" />
+</Project>

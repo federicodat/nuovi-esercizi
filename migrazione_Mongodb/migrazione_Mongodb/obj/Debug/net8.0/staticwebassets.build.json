@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1QiMCdmmJ6TpwDWYGfiBYHl8DjLflWT4inIuV0jkLEo=",
+  "Source": "Rest_08_Mongodb",
+  "BasePath": "_content/Rest_08_Mongodb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

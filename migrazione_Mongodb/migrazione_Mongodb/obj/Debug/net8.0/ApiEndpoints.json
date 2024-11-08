@@ -1,0 +1,101 @@
+[
+  {
+    "ContainingType": "Rest_08_Mongodb.Controllers.ImpiegatoController",
+    "Method": "Inserisci",
+    "RelativePath": "api/impiegati",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objDto",
+        "Type": "Rest_08_Mongodb.Models.ImpiegatoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Rest_08_Mongodb.Controllers.ImpiegatoController",
+    "Method": "Lista",
+    "RelativePath": "api/impiegati",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Rest_08_Mongodb.Models.Risposta",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Rest_08_Mongodb.Controllers.ImpiegatoController",
+    "Method": "Aggiorna",
+    "RelativePath": "api/impiegati/{varCodice}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "imDto",
+        "Type": "Rest_08_Mongodb.Models.ImpiegatoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Rest_08_Mongodb.Controllers.ImpiegatoController",
+    "Method": "CercaPerCodice",
+    "RelativePath": "api/impiegati/{varMatr}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varMatr",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Rest_08_Mongodb.Models.Risposta",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Rest_08_Mongodb.Controllers.ImpiegatoController",
+    "Method": "Elimina",
+    "RelativePath": "api/impiegati/{varMatr}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varMatr",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

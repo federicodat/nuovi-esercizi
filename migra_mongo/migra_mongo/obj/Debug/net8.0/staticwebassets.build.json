@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tMkU2JV1pMG3WKZ55bO5JlNn16uHuvQiaKEcOHoLCTo=",
+  "Source": "migra_mongo",
+  "BasePath": "_content/migra_mongo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

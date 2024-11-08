@@ -1,0 +1,33 @@
+﻿@model List<Chat>
+
+
+<h1>Lista messaggi Chat</h1>
+<div class="container">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Messaggio</th>
+                <th>Utente</th>
+                <th>Data</th>
+             
+                <th>********** AZIONI  ************</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Chat c in Model)
+            {
+                <tr>
+
+                    <td>@c.Messaggio</td>
+
+                    <td>@c.UtenteRif</td>
+                    <td>@c.DatMes</td>
+               
+                     
+
+
+
+                </tr>
+            }
+        </tbody>
+    </table>

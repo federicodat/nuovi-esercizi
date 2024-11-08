@@ -13,12 +13,12 @@ namespace _05_eserciziocorsi
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-     
- 
-                builder.Services.AddControllersWithViews();
+
+
+            builder.Services.AddControllersWithViews();
 
             builder.Services.AddDbContext<PoloFormativoContext>(options => options.UseSqlServer(
-            builder.Configuration.GetConnectionString("DatabaseTest"))   
+            builder.Configuration.GetConnectionString("DatabaseTest"))
             );
 
             builder.Services.AddScoped<AdminRepo>();
@@ -55,13 +55,13 @@ namespace _05_eserciziocorsi
                 pattern: "{controller=Auth}/{action=Login}/{id?}");
 
             #region Configurazione di dev per CORS
- 
+
             app.UseCors(builder =>
             builder.WithOrigins("*").AllowAnyMethod().AllowAnyHeader()
             );
- 
+
             #endregion
-           
+
             app.Run();
         }
     }

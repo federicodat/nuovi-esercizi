@@ -1,0 +1,85 @@
+[
+  {
+    "ContainingType": "A_CHAT.Controllers.UtenteAPiController",
+    "Method": "CercaPerCodice",
+    "RelativePath": "{varU}/{varP}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varU",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "varP",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "A_CHAT.Models.UtenteDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "A_CHAT.Controllers.ChatApiController",
+    "Method": "Listams",
+    "RelativePath": "api/chat",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[A_CHAT.Models.ChatDTO, A_CHAT, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "A_CHAT.Controllers.ChatApiController",
+    "Method": "InserisciMess",
+    "RelativePath": "api/chat",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objDto",
+        "Type": "A_CHAT.Models.ChatDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "A_CHAT.Controllers.UtenteAPiController",
+    "Method": "Inserisci",
+    "RelativePath": "api/iscrizione",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "uDto",
+        "Type": "A_CHAT.Models.Utente",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
